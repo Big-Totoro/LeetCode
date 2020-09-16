@@ -9,6 +9,10 @@ import java.util.Set;
 
 public class _771 {
     public static class Solution1 {
+        /**
+         * Time: O(n + m)
+         * Space: O(n)
+         */
         public int numJewelsInStones(String J, String S) {
             Set<Character> jewels = new HashSet<>();
             for (Character c : J.toCharArray()) {

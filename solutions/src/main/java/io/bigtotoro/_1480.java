@@ -27,6 +27,10 @@ public class _1480 {
     }
 
     public static class Solution2 {
+        /**
+         * Time: O(n)
+         * Space: O(n)
+         */
         public int[] runningSum(int[] nums) {
             int[] result = new int[nums.length];
 

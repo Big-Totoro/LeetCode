@@ -14,3 +14,4 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [1303](https://leetcode.com/problems/find-the-team-size/) | Find the Team Size | [1303](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1303.sql) | | Easy | SQL
 [1350](https://leetcode.com/problems/students-with-invalid-departments/) | Students With Invalid Departments | [1350](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1350.sql) | | Easy | SQL
 [1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Replace Employee ID With The Unique Identifier | [1378](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1378.sql) | | Easy | SQL
+[1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | [1480](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1480.java) | | Easy | Array

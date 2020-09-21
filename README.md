@@ -10,6 +10,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [760](https://leetcode.com/problems/find-anagram-mappings/) | Find Anagram Mappings | [760](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_760.java) | | Easy | Hash Table
 [771](https://leetcode.com/problems/jewels-and-stones/) | Jewels and Stones | [771](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_771.java) | | Easy |  
 [1119](https://leetcode.com/problems/remove-vowels-from-a-string/) | Remove Vowels from a String | [1119](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1119.java) | | Easy | String
+[1165](https://leetcode.com/problems/single-row-keyboard/) | Single-Row Keyboard | [1165](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1165.java) | | Easy | String
 [1108](https://leetcode.com/problems/defanging-an-ip-address/) | Defanging an IP Address | [1108](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1108.java) | | Easy | String
 [1303](https://leetcode.com/problems/find-the-team-size/) | Find the Team Size | [1303](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1303.sql) | | Easy | SQL
 [1350](https://leetcode.com/problems/students-with-invalid-departments/) | Students With Invalid Departments | [1350](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1350.sql) | | Easy | SQL

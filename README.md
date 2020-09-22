@@ -20,4 +20,5 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Replace Employee ID With The Unique Identifier | [1378](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1378.sql) | | Easy | SQL
 [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Kids With the Greatest Number of Candies | [1431](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1431.java) | | Easy | Array
 [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | [1480](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1480.java) | | Easy | Array
+[1527](https://leetcode.com/problems/patients-with-a-condition/) | Patients With a Condition | [1527](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1527.sql) | | Easy | SQL
 [1571](https://leetcode.com/problems/warehouse-manager/) | Warehouse Manager | [1571](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1571.sql) | | Easy | SQL

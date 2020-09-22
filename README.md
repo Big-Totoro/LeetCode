@@ -22,3 +22,4 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | [1480](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1480.java) | | Easy | Array
 [1527](https://leetcode.com/problems/patients-with-a-condition/) | Patients With a Condition | [1527](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1527.sql) | | Easy | SQL
 [1571](https://leetcode.com/problems/warehouse-manager/) | Warehouse Manager | [1571](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1571.sql) | | Easy | SQL
+[1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Customer Who Visited but Did Not Make Any Transactions | [1581](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1581.sql) | | Easy | SQL

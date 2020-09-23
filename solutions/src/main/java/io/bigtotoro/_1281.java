@@ -1,5 +1,9 @@
 package io.bigtotoro;
 
+/**
+ * <a href="https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/">1281. Subtract the Product and Sum of Digits of an Integer</a>
+ */
+
 public class _1281 {
     public static class Solution1 {
         public int subtractProductAndSum(int n) {

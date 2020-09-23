@@ -2,6 +2,7 @@
 
 Number | Title             | Solution  | Video |	Difficulty | Tag
 -------|-------------------|-----------|-------|-------------|------------
+[346](https://leetcode.com/problems/moving-average-from-data-stream/) | Moving Average from Data Stream | [346](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_346.java) | | Easy | Queue
 [509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | [509](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_509.java) | | Easy | Array
 [511](https://leetcode.com/problems/game-play-analysis-i/) | Game Play Analysis I | [511](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_511.sql) | | Easy | SQL
 [595](https://leetcode.com/problems/big-countries/) | Big Countries | [595](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_595.sql) | | Easy | SQL

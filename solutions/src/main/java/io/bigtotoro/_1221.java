@@ -20,6 +20,7 @@ public class _1221 {
                     ++counter;
                 }
             }
+
             return counter;
         }
     }

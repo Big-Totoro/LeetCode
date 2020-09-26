@@ -7,6 +7,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [461](https://leetcode.com/problems/hamming-distance/) | Hamming Distance | [461](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_461.java) | | Easy | Bit Manipulation
 [509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | [509](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_509.java) | | Easy | Array
 [511](https://leetcode.com/problems/game-play-analysis-i/) | Game Play Analysis I | [511](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_511.sql) | | Easy | SQL
+[586](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Customer Placing the Largest Number of Orders | [586](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_586.sql) | | Easy | SQL
 [595](https://leetcode.com/problems/big-countries/) | Big Countries | [595](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_595.sql) | | Easy | SQL
 [613](https://leetcode.com/problems/shortest-distance-in-a-line/) | Shortest Distance in a Line | [613](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_613.sql) | | Easy | SQL
 [627](https://leetcode.com/problems/swap-salary/) | Swap Salary | [627](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_627.sql) | | Easy | SQL

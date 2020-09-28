@@ -27,6 +27,9 @@ public class _832 {
                     }
                 }
 
+                /**
+                 * In case of odd columns number
+                 */
                 if (A[r].length % 2 != 0) {
                     if (A[r][A[r].length / 2] == 1) {
                         A[r][A[r].length / 2] = 0;
@@ -35,6 +38,7 @@ public class _832 {
                     }
                 }
             }
+
             return A;
         }
     }

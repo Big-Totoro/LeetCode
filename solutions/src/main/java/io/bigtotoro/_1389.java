@@ -23,4 +23,20 @@ public class _1389 {
             return nums;
         }
     }
+
+    public static class Solution2 {
+        public int[] createTargetArray(int[] nums, int[] index) {
+            int[] result = new int[nums.length];
+
+            for (int i = 0; i < nums.length; ++i) {
+                for (int j = nums.length - 1; j > index[i]; j--) {
+                    result[j] = result[j - 1];
+                }
+
+                result[index[i]] = nums[i];
+            }
+
+            return result;
+        }
+    }
 }

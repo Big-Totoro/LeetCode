@@ -2,6 +2,7 @@
 
 Number | Title             | Solution  | Video |	Difficulty | Tag
 -------|-------------------|-----------|-------|-------------|------------
+[344](https://leetcode.com/problems/reverse-string/) | Reverse String | [344](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_344.java) | | Easy | String, Two pointers
 [346](https://leetcode.com/problems/moving-average-from-data-stream/) | Moving Average from Data Stream | [346](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_346.java) | | Easy | Queue
 [359](https://leetcode.com/problems/logger-rate-limiter/) | Logger Rate Limiter | [359](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_359.java) | | Easy | Hash Table
 [461](https://leetcode.com/problems/hamming-distance/) | Hamming Distance | [461](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_461.java) | | Easy | Bit Manipulation

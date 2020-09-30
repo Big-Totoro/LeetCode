@@ -18,7 +18,7 @@ public class _344_Test {
     public void test1() {
         char[] line = {'h', 'e', 'l', 'l', 'o'};
         solution1.reverseString(line);
-        assertThat(line).isEqualTo(new char[] {'h', 'e', 'l', 'l', 'o'});
+        assertThat(line).isEqualTo(new char[] {'o', 'l', 'l', 'e', 'h'});
     }
 
     @Test

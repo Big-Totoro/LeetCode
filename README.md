@@ -44,5 +44,6 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [1484](https://leetcode.com/problems/group-sold-products-by-the-date/) | Group Sold Products By The Date | [1484](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1484.sql) | | Easy | SQL
 [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | [1512](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1512.java) | | Easy | Array
 [1527](https://leetcode.com/problems/patients-with-a-condition/) | Patients With a Condition | [1527](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1527.sql) | | Easy | SQL
+[1528](https://leetcode.com/problems/shuffle-string/) | Shuffle String | [1528](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1528.java) | | Easy | Sort
 [1571](https://leetcode.com/problems/warehouse-manager/) | Warehouse Manager | [1571](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1571.sql) | | Easy | SQL
 [1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Customer Who Visited but Did Not Make Any Transactions | [1581](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1581.sql) | | Easy | SQL

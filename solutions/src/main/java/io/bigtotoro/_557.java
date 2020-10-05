@@ -1,5 +1,8 @@
 package io.bigtotoro;
 
+import java.util.Arrays;
+import java.util.stream.Collectors;
+
 /**
  * <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">557. Reverse Words in a String III</a>
  */
@@ -29,6 +32,14 @@ public class _557 {
             }
 
             return new String(result);
+        }
+    }
+
+    public static class Solution2 {
+        public String reverseWords(String s) {
+            return Arrays.stream(s.split(" "))
+                    .map(w -> new StringBuilder(w).reverse())
+                    .collect(Collectors.joining(" "));
         }
     }
 }

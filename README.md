@@ -44,6 +44,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [1470](https://leetcode.com/problems/shuffle-the-array/) | Shuffle the Array | [1470](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1470.java) | | Easy | Array
 [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | [1480](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1480.java) | | Easy | Array
 [1484](https://leetcode.com/problems/group-sold-products-by-the-date/) | Group Sold Products By The Date | [1484](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1484.sql) | | Easy | SQL
+[1486](https://leetcode.com/problems/xor-operation-in-an-array/) | XOR Operation in an Array | [1486](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1486.java) | | Easy | Array, Bit Manipulation
 [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | [1512](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1512.java) | | Easy | Array
 [1527](https://leetcode.com/problems/patients-with-a-condition/) | Patients With a Condition | [1527](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1527.sql) | | Easy | SQL
 [1528](https://leetcode.com/problems/shuffle-string/) | Shuffle String | [1528](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1528.java) | | Easy | Sort

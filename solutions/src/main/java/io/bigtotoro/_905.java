@@ -11,11 +11,11 @@ public class _905 {
             int h = 0;
             int t = A.length - 1;
 
-            for (int i = 0; i < A.length; ++i) {
-                if (A[i] % 2 == 0) {
-                    result[h++] = A[i];
+            for (int a : A) {
+                if (a % 2 == 0) {
+                    result[h++] = a;
                 } else {
-                    result[t--] = A[i];
+                    result[t--] = a;
                 }
             }
 

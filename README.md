@@ -19,6 +19,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [586](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Customer Placing the Largest Number of Orders | [586](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_586.sql) | | Easy | SQL
 [595](https://leetcode.com/problems/big-countries/) | Big Countries | [595](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_595.sql) | | Easy | SQL
 [613](https://leetcode.com/problems/shortest-distance-in-a-line/) | Shortest Distance in a Line | [613](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_613.sql) | | Easy | SQL
+[620](https://leetcode.com/problems/not-boring-movies/) | Not Boring Movies | [620](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_620.sql) | | Easy | SQL
 [627](https://leetcode.com/problems/swap-salary/) | Swap Salary | [627](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_627.sql) | | Easy | SQL
 [657](https://leetcode.com/problems/robot-return-to-origin/) | Robot Return to Origin | [657](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_657.java) | | Easy | String 
 [709](https://leetcode.com/problems/to-lower-case/) | To Lower Case | [709](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_709.java) | | Easy | String 

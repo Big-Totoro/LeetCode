@@ -25,6 +25,10 @@ public class _559 {
 
     public static class Solution1 {
         public int maxDepth(Node root) {
+            if (root == null) {
+                return 0;
+            }
+
             int depth = 0;
 
             depth += inDepth(root);
@@ -33,6 +37,10 @@ public class _559 {
         }
 
         private int inDepth(Node node) {
+            if (node == null) {
+                return 0;
+            }
+
             int depth = 0;
 
             if  (node.children != null) {

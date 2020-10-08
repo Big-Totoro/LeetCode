@@ -33,6 +33,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [1069](https://leetcode.com/problems/product-sales-analysis-ii/) | Product Sales Analysis II | [1069](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1069.sql) | | Easy | SQL
 [1119](https://leetcode.com/problems/remove-vowels-from-a-string/) | Remove Vowels from a String | [1119](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1119.java) | | Easy | String
 [1134](https://leetcode.com/problems/armstrong-number/) | Armstrong Number | [1134](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1134.java) | | Easy | Math
+[1148](https://leetcode.com/problems/article-views-i/) | Article Views I | [1148](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1148.sql) | | Easy | SQL
 [1165](https://leetcode.com/problems/single-row-keyboard/) | Single-Row Keyboard | [1165](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1165.java) | | Easy | String
 [1108](https://leetcode.com/problems/defanging-an-ip-address/) | Defanging an IP Address | [1108](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1108.java) | | Easy | String
 [1173](https://leetcode.com/problems/immediate-food-delivery-i/) | Immediate Food Delivery I | [1173](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1173.sql) | | Easy | SQL

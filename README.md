@@ -31,6 +31,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [804](https://leetcode.com/problems/unique-morse-code-words/) | Unique Morse Code Words | [804](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_804.java) | | Easy | String  
 [832](https://leetcode.com/problems/flipping-an-image/) | Flipping an Image | [832](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_832.java) | | Easy | Array  
 [905](https://leetcode.com/problems/sort-array-by-parity/) | Sort Array By Parity | [905](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_905.java) | | Easy | Array  
+[938](https://leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | [938](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_938.java) | | Easy | Tree, Recursion  
 [1021](https://leetcode.com/problems/remove-outermost-parentheses/) | Remove Outermost Parentheses | [1021](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1021.java) | | Easy | Stack  
 [1068](https://leetcode.com/problems/product-sales-analysis-i/) | Product Sales Analysis I | [1068](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1068.sql) | | Easy | SQL
 [1069](https://leetcode.com/problems/product-sales-analysis-ii/) | Product Sales Analysis II | [1069](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1069.sql) | | Easy | SQL

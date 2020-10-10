@@ -46,10 +46,10 @@ public class _938 {
                     if ((top.val >= L) && (top.val <= R)) {
                         sum += top.val;
                     }
-                    if (top.left != null) {
+                    if ((top.left != null) && (top.val >= L)) {
                         stack.push(top.left);
                     }
-                    if (top.right != null) {
+                    if ((top.right != null) && (top.val <= R)) {
                         stack.push(top.right);
                     }
                 }
@@ -72,10 +72,13 @@ public class _938 {
             if (root != null) {
                 if ((root.val >= L) && (root.val <= R)) {
                     sum += root.val;
+                    dfs(root.right, L, R);
+                    dfs(root.left, L, R);
+                } else if (root.val < L) {
+                    dfs(root.right, L, R);
+                } else {
+                    dfs(root.left, L, R);
                 }
-
-                dfs(root.left, L, R);
-                dfs(root.right, L, R);
             }
         }
     }

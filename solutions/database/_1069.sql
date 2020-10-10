@@ -12,7 +12,7 @@ ON s.product_id = p.product_id
 GROUP BY p.product_id
 
 /**
-  Solution 2Боль
+  Solution 2
  */
 SELECT s.product_id, SUM(s.quantity) AS total_quantity
 FROM Sales AS s

@@ -10,6 +10,7 @@ public class _104_Test {
 
     private static _104.Solution1 solution1;
     private static _104.Solution2 solution2;
+    private static _104.Solution3 solution3;
 
     private _104.TreeNode root;
 
@@ -17,6 +18,7 @@ public class _104_Test {
     public static void setup() {
         solution1 = new _104.Solution1();
         solution2 = new _104.Solution2();
+        solution3 = new _104.Solution3();
     }
 
     @Before
@@ -36,5 +38,10 @@ public class _104_Test {
     @Test
     public void test21() {
         assertThat(solution2.maxDepth(root)).isEqualTo(3);
+    }
+
+    @Test
+    public void test31() {
+        assertThat(solution3.maxDepth(root)).isEqualTo(3);
     }
 }

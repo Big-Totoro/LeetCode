@@ -1,5 +1,7 @@
 package io.bigtotoro;
 
+import java.util.Deque;
+import java.util.LinkedList;
 import java.util.Stack;
 
 /**
@@ -60,6 +62,34 @@ public class _104 {
             int right = maxDepth(root.right);
 
             return Math.max(left, right) + 1;
+        }
+    }
+
+    public static class Solution3 {
+        public int maxDepth(TreeNode root) {
+            if (root == null) {
+                return 0;
+            }
+            int depth = 0;
+            Deque<TreeNode> deque = new LinkedList<>();
+            deque.offer(root);
+            while (!deque.isEmpty()) {
+                ++depth;
+                int size = deque.size();
+                for (int i = 0; i < size; ++i) {
+                    TreeNode node = deque.poll();
+                    if (node != null) {
+                        if (node.left != null) {
+                            deque.offer(node.left);
+                        }
+                        if (node.right != null) {
+                            deque.offer(node.right);
+                        }
+                    }
+                }
+            }
+
+            return depth;
         }
     }
 }

@@ -46,10 +46,10 @@ public class _938 {
                     if ((top.val >= L) && (top.val <= R)) {
                         sum += top.val;
                     }
-                    if ((top.left != null) && (top.val >= L)) {
+                    if (top.val >= L) {
                         stack.push(top.left);
                     }
-                    if ((top.right != null) && (top.val <= R)) {
+                    if (top.val <= R) {
                         stack.push(top.right);
                     }
                 }

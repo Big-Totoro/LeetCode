@@ -33,6 +33,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [771](https://leetcode.com/problems/jewels-and-stones/) | Jewels and Stones | [771](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_771.java) | | Easy | String  
 [804](https://leetcode.com/problems/unique-morse-code-words/) | Unique Morse Code Words | [804](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_804.java) | | Easy | String  
 [832](https://leetcode.com/problems/flipping-an-image/) | Flipping an Image | [832](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_832.java) | | Easy | Array  
+[852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | [852](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_852.java) | | Easy | Array  
 [905](https://leetcode.com/problems/sort-array-by-parity/) | Sort Array By Parity | [905](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_905.java) | | Easy | Array  
 [938](https://leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | [938](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_938.java) | | Easy | Tree, Recursion  
 [961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | N-Repeated Element in Size 2N Array | [961](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_961.java) | | Easy | Hash Table  

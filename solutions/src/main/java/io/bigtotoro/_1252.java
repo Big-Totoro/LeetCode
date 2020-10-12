@@ -1,5 +1,8 @@
 package io.bigtotoro;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * <a href="https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/">1252. Cells with Odd Values in a Matrix</a>
  */
@@ -34,7 +37,26 @@ public class _1252 {
 
     public static class Solution2 {
         public int oddCells(int n, int m, int[][] indices) {
+            Map<Integer, Integer> rows = new HashMap<>();
+            Map<Integer, Integer> cols = new HashMap<>();
 
+            for (int i = 0; i < indices.length; ++i) {
+                if (rows.containsKey(indices[i][0])) {
+                    rows.remove(indices[i][0]);
+                } else {
+                    rows.put(indices[i][0], 1);
+                }
+            }
+
+            for (int i = 0; i < indices.length; ++i) {
+                if (cols.containsKey(indices[i][1])) {
+                    cols.remove(indices[i][1]);
+                } else {
+                    cols.put(indices[i][1], 1);
+                }
+            }
+
+            return (rows.size() * m + cols.size() * n) - (2 * rows.size() * cols.size());
         }
     }
 }

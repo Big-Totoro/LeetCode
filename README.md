@@ -39,6 +39,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [1021](https://leetcode.com/problems/remove-outermost-parentheses/) | Remove Outermost Parentheses | [1021](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1021.java) | | Easy | Stack  
 [1068](https://leetcode.com/problems/product-sales-analysis-i/) | Product Sales Analysis I | [1068](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1068.sql) | | Easy | SQL
 [1069](https://leetcode.com/problems/product-sales-analysis-ii/) | Product Sales Analysis II | [1069](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1069.sql) | | Easy | SQL
+[1180](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | Count Substrings with Only One Distinct Letter | [1180](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1180.java) | | Easy | String
 [1119](https://leetcode.com/problems/remove-vowels-from-a-string/) | Remove Vowels from a String | [1119](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1119.java) | | Easy | String
 [1134](https://leetcode.com/problems/armstrong-number/) | Armstrong Number | [1134](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1134.java) | | Easy | Math
 [1148](https://leetcode.com/problems/article-views-i/) | Article Views I | [1148](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1148.sql) | | Easy | SQL

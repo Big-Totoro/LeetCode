@@ -46,8 +46,8 @@ public class _617 {
 
             t1.val += t2.val;
 
-            mergeTrees(t1.left, t2.left);
-            mergeTrees(t1.right, t2.right);
+            t1.left = mergeTrees(t1.left, t2.left);
+            t1.right = mergeTrees(t1.right, t2.right);
 
             return t1;
         }
@@ -55,6 +55,9 @@ public class _617 {
 
     public static class Solution2 {
         public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
+            if (t1 == null) {
+                return t2;
+            }
             Stack<TreeNode[]> stack = new Stack<>();
             stack.push(new TreeNode[] {t1, t2});
             while (!stack.empty()) {

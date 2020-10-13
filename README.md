@@ -13,6 +13,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [346](https://leetcode.com/problems/moving-average-from-data-stream/) | Moving Average from Data Stream | [346](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_346.java) | | Easy | Queue
 [359](https://leetcode.com/problems/logger-rate-limiter/) | Logger Rate Limiter | [359](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_359.java) | | Easy | Hash Table
 [461](https://leetcode.com/problems/hamming-distance/) | Hamming Distance | [461](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_461.java) | | Easy | Bit Manipulation
+[463](https://leetcode.com/problems/island-perimeter/) | Island Perimeter | [463](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_463.java) | | Easy | Hash Table
 [509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | [509](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_509.java) | | Easy | Array
 [511](https://leetcode.com/problems/game-play-analysis-i/) | Game Play Analysis I | [511](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_511.sql) | | Easy | SQL
 [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | [557](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_557.java) | | Easy | String

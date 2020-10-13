@@ -18,27 +18,35 @@ public class _463 {
                         continue;
                     }
 
+                    // Check the impact of the cell on the left
                     if (j == 0) {
                         l = 0;
                     } else {
                         l = grid[i][j - 1] * 1;
                     }
+
+                    // Check the impact of the cell on the right
                     if (j == grid[0].length - 1) {
                         r = 0;
                     } else {
                         r = grid[i][j + 1] * 1;
                     }
+
+                    // Check the impact of the cell on the top
                     if (i == 0) {
                         t = 0;
                     } else {
                         t = grid[i - 1][j] * 1;
                     }
+
+                    // Check the impact of the cell on the bottom
                     if (i == grid.length - 1) {
                         b = 0;
                     } else {
                         b = grid[i + 1][j] * 1;
                     }
 
+                    // We have a four sides of the cell and we should subtract the sides that have "the land" or "1"
                     perimeter += grid[i][j] * 4 - l - t - r - b;
                 }
             }

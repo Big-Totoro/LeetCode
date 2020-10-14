@@ -40,14 +40,17 @@ public class _1323 {
 
     public static class Solution2 {
         public int maximum69Number (int num) {
-            int max = 0;
-            int n = num;
+            int length = (int)Math.log10(num);
 
-            while (n > 0) {
-
+            for (int i = length; i >= 0; --i) {
+                int n = num / (int)Math.pow(10, i);
+                n %= 10;
+                if (n == 6) {
+                    return num + 3 * (int)Math.pow(10, i);
+                }
             }
 
-            return max;
+            return num;
         }
     }
 }

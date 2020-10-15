@@ -1,6 +1,6 @@
 package io.bigtotoro;
 
-import org.junit.BeforeClass;
+import org.junit.Before;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
@@ -8,14 +8,19 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class _897_Test {
 
     private static _897.Solution1 solution1;
+    private static _897.Solution2 solution2;
 
-    private static _897.TreeNode root;
-    private static _897.TreeNode result;
+    private _897.TreeNode root;
+    private _897.TreeNode result;
 
-    @BeforeClass
-    public static void setup() {
+    @Before
+    public void setup() {
         solution1 = new _897.Solution1();
+        solution2 = new _897.Solution2();
 
+        /**
+         * Prepare the input tree
+         */
         root = new _897.TreeNode(5,
                 new _897.TreeNode(3,
                         new _897.TreeNode(2,
@@ -31,6 +36,9 @@ public class _897_Test {
                 )
         );
 
+        /**
+         * Prepare the result tree
+         */
         result = new _897.TreeNode(1,
                 null,
                 new _897.TreeNode(2,
@@ -61,6 +69,12 @@ public class _897_Test {
     @Test
     public void test11() {
         assertThat(solution1.increasingBST(root))
+                .isEqualTo(result);
+    }
+
+    @Test
+    public void test21() {
+        assertThat(solution2.increasingBST(root))
                 .isEqualTo(result);
     }
 }

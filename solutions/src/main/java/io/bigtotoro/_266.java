@@ -1,7 +1,9 @@
 package io.bigtotoro;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 /**
  * <a href="https://leetcode.com/problems/palindrome-permutation/">266. Palindrome Permutation</a>
@@ -29,6 +31,22 @@ public class _266 {
             }
 
             return false;
+        }
+    }
+
+    public static class Solution2 {
+        public boolean canPermutePalindrome(String s) {
+            Set<Character> set = new HashSet<>();
+
+            for (Character c : s.toCharArray()) {
+                if (set.contains(c)) {
+                    set.remove(c);
+                } else {
+                    set.add(c);
+                }
+            }
+
+            return set.size() <= 1;
         }
     }
 }

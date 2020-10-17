@@ -43,6 +43,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [942](https://leetcode.com/problems/di-string-match/) | DI String Match | [942](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_942.java) | | Easy | Math  
 [938](https://leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | [938](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_938.java) | | Easy | Tree, Recursion  
 [961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | N-Repeated Element in Size 2N Array | [961](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_961.java) | | Easy | Hash Table  
+[977](https://leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | [977](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_977.java) | | Easy | Array  
 [1021](https://leetcode.com/problems/remove-outermost-parentheses/) | Remove Outermost Parentheses | [1021](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1021.java) | | Easy | Stack  
 [1068](https://leetcode.com/problems/product-sales-analysis-i/) | Product Sales Analysis I | [1068](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1068.sql) | | Easy | SQL
 [1069](https://leetcode.com/problems/product-sales-analysis-ii/) | Product Sales Analysis II | [1069](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1069.sql) | | Easy | SQL

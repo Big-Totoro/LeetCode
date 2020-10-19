@@ -13,7 +13,7 @@ public class _500 {
             String[] temp = new String[words.length];
             int counter = 0;
             for (String w : words) {
-                if (findInRows(w)) {
+                if (findInRows(w.toLowerCase())) {
                     temp[counter++] = w;
                 }
             }
@@ -22,12 +22,9 @@ public class _500 {
         }
 
         private boolean findInRows(String word) {
-            Set<Character> row1 = Set.of('q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p',
-                    'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P');
-            Set<Character> row2 = Set.of('a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l',
-                    'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L');
-            Set<Character> row3 = Set.of('z', 'x', 'c', 'v', 'b', 'n', 'm',
-                    'Z', 'X', 'C', 'V', 'B', 'N', 'M');
+            Set<Character> row1 = Set.of('q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p');
+            Set<Character> row2 = Set.of('a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l');
+            Set<Character> row3 = Set.of('z', 'x', 'c', 'v', 'b', 'n', 'm');
 
             boolean success = true;
             for (int i = 0; i < word.length(); ++i) {

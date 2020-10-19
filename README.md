@@ -87,6 +87,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | [1512](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1512.java) | | Easy | Array
 [1527](https://leetcode.com/problems/patients-with-a-condition/) | Patients With a Condition | [1527](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1527.sql) | | Easy | SQL
 [1528](https://leetcode.com/problems/shuffle-string/) | Shuffle String | [1528](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1528.java) | | Easy | Sort
+[1534](https://leetcode.com/problems/count-good-triplets/) | Count Good Triplets | [1534](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1528.java) | | Easy | Array
 [1565](https://leetcode.com/problems/unique-orders-and-customers-per-month/) | Unique Orders and Customers Per Month | [1565](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1565.sql) | | Easy | SQL
 [1571](https://leetcode.com/problems/warehouse-manager/) | Warehouse Manager | [1571](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1571.sql) | | Easy | SQL
 [1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Customer Who Visited but Did Not Make Any Transactions | [1581](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1581.sql) | | Easy | SQL

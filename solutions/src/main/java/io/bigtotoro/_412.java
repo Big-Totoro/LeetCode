@@ -27,4 +27,31 @@ public class _412 {
             return result;
         }
     }
+
+    public static class Solution2 {
+        public List<String> fizzBuzz(int n) {
+            List<String> result = new ArrayList<>(n);
+            boolean div3;
+            boolean div5;
+
+            for (int i = 1; i <= n; ++i) {
+                String str = "";
+
+                div3 = i % 3 == 0;
+                div5 = i % 5 == 0;
+                if (div3) {
+                    str += "Fizz";
+                }
+                if (div5) {
+                    str += "Buzz";
+                }
+                if (str.isEmpty()) {
+                    str += String.valueOf(i);
+                }
+                result.add(str);
+            }
+
+            return result;
+        }
+    }
 }

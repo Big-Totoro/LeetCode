@@ -1,5 +1,9 @@
 package io.bigtotoro;
 
+/**
+ * <a href="https://leetcode.com/problems/count-good-triplets/">1534. Count Good Triplets</a>
+ */
+
 public class _1534 {
     public static class Solution1 {
         public int countGoodTriplets(int[] arr, int a, int b, int c) {

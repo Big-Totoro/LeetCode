@@ -13,6 +13,7 @@ public class _412_Test {
     private static _412.Solution2 solution2;
 
     private static List<String> expected;
+
     @BeforeClass
     public static void setup() {
         solution1 = new _412.Solution1();

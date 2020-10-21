@@ -18,6 +18,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [461](https://leetcode.com/problems/hamming-distance/) | Hamming Distance | [461](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_461.java) | | Easy | Bit Manipulation
 [463](https://leetcode.com/problems/island-perimeter/) | Island Perimeter | [463](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_463.java) | | Easy | Hash Table
 [476](https://leetcode.com/problems/number-complement/) | Number Complement | [476](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_476.java) | | Easy | Bit Manipulation
+[496](https://leetcode.com/problems/next-greater-element-i/) | Next Greater Element I | [496](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_496.java) | | Easy | Stack
 [500](https://leetcode.com/problems/keyboard-row/) | Keyboard Row | [500](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_500.java) | | Easy | Hash Table
 [509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | [509](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_509.java) | | Easy | Array
 [511](https://leetcode.com/problems/game-play-analysis-i/) | Game Play Analysis I | [511](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_511.sql) | | Easy | SQL

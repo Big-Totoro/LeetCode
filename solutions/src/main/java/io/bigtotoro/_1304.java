@@ -1,7 +1,7 @@
 package io.bigtotoro;
 
 /**
- * <a href="https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/">1304. Find N Unique Integers Sum up to Zero</a>
+ * <a href="https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/">496. Find N Unique Integers Sum up to Zero</a>
  */
 
 public class _1304 {

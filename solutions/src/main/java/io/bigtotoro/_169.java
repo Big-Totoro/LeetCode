@@ -111,8 +111,18 @@ public class _169 {
      */
     public static class Solution5 {
         public int majorityElement(int[] nums) {
-            Arrays.sort(nums);
-            return nums[nums.length / 2];
+            int result = 0;
+            int counter = 0;
+
+            for (int n : nums) {
+                if (counter == 0) {
+                    result = n;
+                }
+
+                counter += (result == n) ? 1 : -1;
+            }
+
+            return result;
         }
     }
 }

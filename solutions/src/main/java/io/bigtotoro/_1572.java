@@ -17,7 +17,7 @@ public class _1572 {
             int sum = 0;
 
             for (int i = 0, j = mat.length - 1; i < mat.length && j >= 0; ++i, --j) {
-                sum += mat[i][j];
+                sum += mat[i][i];
                 if (i != j) {
                     sum += mat[i][j];
                 }

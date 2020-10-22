@@ -34,4 +34,11 @@ public class _1572_Test {
                 {5}
         })).isEqualTo(5);
     }
+
+    @Test
+    public void test14() {
+        assertThat(solution1.diagonalSum(new int[][]{
+                {7, 3, 1, 9}, {3, 4, 6, 9}, {6, 9, 6, 6}, {9, 5, 8, 5}
+        })).isEqualTo(55);
+    }
 }

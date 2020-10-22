@@ -94,4 +94,5 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [1534](https://leetcode.com/problems/count-good-triplets/) | Count Good Triplets | [1534](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1528.java) | | Easy | Array
 [1565](https://leetcode.com/problems/unique-orders-and-customers-per-month/) | Unique Orders and Customers Per Month | [1565](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1565.sql) | | Easy | SQL
 [1571](https://leetcode.com/problems/warehouse-manager/) | Warehouse Manager | [1571](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1571.sql) | | Easy | SQL
+[1572](https://leetcode.com/problems/matrix-diagonal-sum/) | Matrix Diagonal Sum | [1572](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1572.java) | | Easy | Sort
 [1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Customer Who Visited but Did Not Make Any Transactions | [1581](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1581.sql) | | Easy | SQL

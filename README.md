@@ -9,6 +9,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | [206](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_206.java) | | Easy | Linked List
 [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Delete Node in a Linked List | [237](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_237.java) | | Easy | Linked List
 [243](https://leetcode.com/problems/shortest-word-distance/) | Shortest Word Distance | [243](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_243.java) | | Easy | Array
+[293](https://leetcode.com/problems/flip-game/) | Flip Game | [293](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_293.java) | | Easy | String
 [339](https://leetcode.com/problems/nested-list-weight-sum/) | Nested List Weight Sum | [339](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_339.java) | | Easy | DFS
 [349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [349](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_349.java) | | Easy | Hash Table
 [344](https://leetcode.com/problems/reverse-string/) | Reverse String | [344](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_344.java) | | Easy | String, Two pointers

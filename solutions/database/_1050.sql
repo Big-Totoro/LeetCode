@@ -8,8 +8,14 @@
 SELECT a.actor_id, a.director_id
 FROM ActorDirector a
 GROUP by a.actor_id, a.director_id
-HAVING COUNT(a.director_id) >= 3
+HAVING COUNT(a.director_id) >= 3;
 
 /**
   Solution 2
  */
+SELECT a.actor_id, a.director_id
+FROM (SELECT b.actor_id, b.director_id, COUNT(b.director_id) AS dir_count
+      FROM ActorDirector b
+      GROUP by b.actor_id, b.director_id
+      ORDER BY dir_count) AS a
+WHERE a.dir_count >= 3;

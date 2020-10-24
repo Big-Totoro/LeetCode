@@ -7,7 +7,7 @@
  */
 SELECT seller_id
 FROM (
-    SELECT *, RANK() OVER (ORDER BY SUM(price) DESC) total
+    SELECT *, RANK() OVER (ORDER BY SUM(price) DESC) AS total
     FROM Sales
     GROUP BY seller_id
     ) AS t

@@ -8,10 +8,12 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class _1051_Test {
 
     private static _1051.Solution1 solution1;
+    private static _1051.Solution2 solution2;
 
     @BeforeClass
     public static void setup() {
         solution1 = new _1051.Solution1();
+        solution2 = new _1051.Solution2();
     }
 
     @Test
@@ -29,6 +31,24 @@ public class _1051_Test {
     @Test
     public void test13() {
         assertThat(solution1.heightChecker(new int[] { 1, 2, 3, 4, 5 }))
+                .isEqualTo(0);
+    }
+
+    @Test
+    public void test21() {
+        assertThat(solution2.heightChecker(new int[] { 1, 1, 4, 2, 1, 3 }))
+                .isEqualTo(3);
+    }
+
+    @Test
+    public void test22() {
+        assertThat(solution2.heightChecker(new int[] { 5, 1, 2, 3, 4 }))
+                .isEqualTo(5);
+    }
+
+    @Test
+    public void tes23() {
+        assertThat(solution2.heightChecker(new int[] { 1, 2, 3, 4, 5 }))
                 .isEqualTo(0);
     }
 }

@@ -55,6 +55,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | [977](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_977.java) | | Easy | Array  
 [1021](https://leetcode.com/problems/remove-outermost-parentheses/) | Remove Outermost Parentheses | [1021](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1021.java) | | Easy | Stack  
 [1050](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Actors and Directors Who Cooperated At Least Three Times | [1050](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1050.sql) | | Easy | SQL
+[1051](https://leetcode.com/problems/height-checker/) | Height Checker | [1051](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1051.java) | | Easy | Array  
 [1068](https://leetcode.com/problems/product-sales-analysis-i/) | Product Sales Analysis I | [1068](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1068.sql) | | Easy | SQL
 [1069](https://leetcode.com/problems/product-sales-analysis-ii/) | Product Sales Analysis II | [1069](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1069.sql) | | Easy | SQL
 [1082](https://leetcode.com/problems/sales-analysis-i/) | Sales Analysis I | [1082](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1082.sql) | | Easy | SQL

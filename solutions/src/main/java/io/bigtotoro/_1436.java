@@ -20,14 +20,13 @@ public class _1436 {
                 sources.add(path.get(0));
             }
 
-            String destination = "";
             for (List<String> path : paths) {
                 if (!sources.contains(path.get(1))) {
-                    destination += path.get(1);
+                    return path.get(1);
                 }
             }
 
-            return destination;
+            return "";
         }
     }
 }

@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class _13 {
     /**
-     * T: O(N)
+     * T: O(1)
      * S: O(1)
      */
     public static class Solution1 {
@@ -79,24 +79,38 @@ public class _13 {
     }
 
     /**
-     * T: O(N)
+     * T: O(1)
      * S: O(1)
      */
     public static class Solution2 {
-        private Map<String, Integer> roman = new HashMap<>();
+        private Map<Character, Integer> roman = new HashMap<>();
 
         public Solution2() {
-
+            roman.put('I', 1);
+            roman.put('V', 5);
+            roman.put('X', 10);
+            roman.put('L', 50);
+            roman.put('C', 100);
+            roman.put('D', 500);
+            roman.put('M', 1000);
         }
 
-        private int romanToInt() {
-            return 0;
+        private int romanToInt(char roman) {
+            return this.roman.get(roman);
         }
 
         public int romanToInt(String s) {
-            return 0;
+            int result = 0;
+
+            for (int i = 0; i < s.length(); ++i) {
+                int v = romanToInt(s.charAt(i));
+                if (i > 0 && v > romanToInt(s.charAt(i - 1))) {
+                    v = -2 * romanToInt(s.charAt(i - 1)) + v;
+                }
+                result += v;
+            }
+
+            return result;
         }
-
-
     }
 }

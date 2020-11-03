@@ -4,6 +4,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 -------|-------------------|-----------|-------|-------------|------------
 [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | [13](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_13.java) | | Easy | String, Math
 [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree | [104](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_104.java) | | Easy | Tree, DFS
+[122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Best Time to Buy and Sell Stock II | [122](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_122.java) | | Easy | Array, Greedy
 [136](https://leetcode.com/problems/single-number/) | Single Number | [136](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_136.java) | | Easy | Array, Bit Manipulation
 [175](https://leetcode.com/problems/combine-two-tables/) | Combine Two Tables | [175](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_175.sql) | | Easy | SQL
 [182](https://leetcode.com/problems/duplicate-emails/) | Duplicate emails | [182](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_182.sql) | | Easy | SQL

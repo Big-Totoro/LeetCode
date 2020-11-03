@@ -7,6 +7,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Best Time to Buy and Sell Stock II | [122](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_122.java) | | Easy | Array, Greedy
 [136](https://leetcode.com/problems/single-number/) | Single Number | [136](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_136.java) | | Easy | Array, Bit Manipulation
 [175](https://leetcode.com/problems/combine-two-tables/) | Combine Two Tables | [175](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_175.sql) | | Easy | SQL
+[181](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Employees Earning More Than Their Managers | [182](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_181.sql) | | Easy | SQL
 [182](https://leetcode.com/problems/duplicate-emails/) | Duplicate emails | [182](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_182.sql) | | Easy | SQL
 [206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | [206](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_206.java) | | Easy | Linked List
 [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Delete Node in a Linked List | [237](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_237.java) | | Easy | Linked List

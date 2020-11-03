@@ -34,6 +34,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [586](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Customer Placing the Largest Number of Orders | [586](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_586.sql) | | Easy | SQL
 [595](https://leetcode.com/problems/big-countries/) | Big Countries | [595](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_595.sql) | | Easy | SQL
 [603](https://leetcode.com/problems/consecutive-available-seats/) | Consecutive Available Seats | [603](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_603.sql) | | Easy | SQL
+[607](https://leetcode.com/problems/sales-person/) | Sales Person | [607](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_607.sql) | | Easy | SQL
 [610](https://leetcode.com/problems/triangle-judgement/) | Triangle Judgement | [610](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_610.sql) | | Easy | SQL
 [613](https://leetcode.com/problems/shortest-distance-in-a-line/) | Shortest Distance in a Line | [613](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_613.sql) | | Easy | SQL
 [617](https://leetcode.com/problems/merge-two-binary-trees/) | Merge Two Binary Trees | [617](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_617.java) | | Easy | Tree 

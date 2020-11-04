@@ -1,5 +1,5 @@
 /**
- * <a href="https://leetcode.com/problems/find-the-team-size/">1303. Find the Team Size</a>
+ * <a href="https://leetcode.com/problems/students-and-examinations/">1280. Students and Examinations</a>
  */
 
 /**

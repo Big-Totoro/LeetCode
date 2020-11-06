@@ -17,7 +17,8 @@ public class _682 {
                     Integer op1 = Integer.valueOf(stack.pop());
                     Integer op2 = Integer.valueOf(stack.peek());
                     stack.push(Integer.toString(op1));
-                    stack.push(Integer.toString(op1 + op2));
+                    stack.push(Integer.toString
+                            (op1 + op2));
                 } else if (ops[i].equals("D")) {
                     String op = stack.peek();
                     Integer value = Integer.valueOf(op);

@@ -76,6 +76,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [1108](https://leetcode.com/problems/defanging-an-ip-address/) | Defanging an IP Address | [1108](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1108.java) | | Easy | String
 [1173](https://leetcode.com/problems/immediate-food-delivery-i/) | Immediate Food Delivery I | [1173](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1173.sql) | | Easy | SQL
 [1179](https://leetcode.com/problems/reformat-department-table/) | Reformat Department Table | [1179](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1179.sql) | | Easy | SQL
+[1207](https://leetcode.com/problems/unique-number-of-occurrences/) | Unique Number of Occurrences | [1207](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1207.java) | | Easy | Hash Table
 [1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | Split a String in Balanced Strings | [1221](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1221.java) | | Easy | String
 [1251](https://leetcode.com/problems/average-selling-price/) | Average Selling Price | [1251](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1251.sql) | | Easy | SQL
 [1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | Cells with Odd Values in a Matrix | [1252](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1252.java) | | Easy | Array

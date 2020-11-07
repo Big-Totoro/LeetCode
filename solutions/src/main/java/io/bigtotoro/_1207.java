@@ -10,17 +10,20 @@ import java.util.Set;
  */
 
 public class _1207 {
+    /**
+     * T: O(n)
+     * S: O(n)
+     */
     public static class Solution1 {
         public boolean uniqueOccurrences(int[] arr) {
             Map<Integer, Integer> map = new HashMap<>();
-
             for (int i = 0; i < arr.length; ++i) {
                 map.compute(arr[i], (k, v) -> v == null ? 1 : ++v);
             }
 
             Set<Integer> set = new HashSet<>();
-            for (Map.Entry<Integer, Integer> e : map.entrySet()) {
-                if (!set.add(e.getValue())) {
+            for (Integer e : map.values()) {
+                if (!set.add(e)) {
                     return false;
                 }
             }

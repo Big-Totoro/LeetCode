@@ -1,5 +1,9 @@
 package io.bigtotoro;
 
+/**
+ * <a href="https://leetcode.com/problems/design-hashset/">705. Design Hashset</a>
+ */
+
 public class _705 {
     public static class MyHashSet {
         private final int BUCKET_SIZE = 32;

@@ -9,11 +9,13 @@ public class _1047_Test {
 
     private static _1047.Solution1 solution1;
     private static _1047.Solution2 solution2;
+    private static _1047.Solution3 solution3;
 
     @BeforeClass
     public static void setup() {
         solution1 = new _1047.Solution1();
         solution2 = new _1047.Solution2();
+        solution3 = new _1047.Solution3();
     }
 
     @Test
@@ -25,6 +27,12 @@ public class _1047_Test {
     @Test
     public void test21() {
         assertThat(solution2.removeDuplicates("abbaca"))
+                .isEqualTo("ca");
+    }
+
+    @Test
+    public void test31() {
+        assertThat(solution3.removeDuplicates("abbaca"))
                 .isEqualTo("ca");
     }
 }

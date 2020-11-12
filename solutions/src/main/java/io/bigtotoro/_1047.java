@@ -60,19 +60,14 @@ public class _1047 {
                 return S;
             }
 
-            Stack<Character> stack = new Stack<>();
+            StringBuilder builder = new StringBuilder();
 
             for (int i = 0; i < S.length(); ++i) {
-                if (!stack.empty() && S.charAt(i) == stack.peek()) {
-                    stack.pop();
+                if (builder.length() > 0 && S.charAt(i) == builder.charAt(builder.length() - 1)) {
+                    builder.deleteCharAt(builder.length() - 1);
                     continue;
                 }
-                stack.push(S.charAt(i));
-            }
-
-            StringBuilder builder = new StringBuilder();
-            while (!stack.empty()) {
-                builder.insert(0, stack.pop());
+                builder.append(S.charAt(i));
             }
 
             return builder.toString();

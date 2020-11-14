@@ -13,6 +13,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [182](https://leetcode.com/problems/duplicate-emails/) | Duplicate emails | [182](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_182.sql) | | Easy | SQL
 [206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | [206](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_206.java) | | Easy | Linked List
 [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Delete Node in a Linked List | [237](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_237.java) | | Easy | Linked List
+[242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | [242](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_242.java) | | Easy | HashTable, Sort
 [243](https://leetcode.com/problems/shortest-word-distance/) | Shortest Word Distance | [243](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_243.java) | | Easy | Array
 [258](https://leetcode.com/problems/add-digits/) | Add Digits | [258](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_258.java) | | Easy | Math
 [283](https://leetcode.com/problems/move-zeroes/) | Move Zeros | [283](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_283.java) | | Easy | Array

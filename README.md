@@ -61,6 +61,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [897](https://leetcode.com/problems/increasing-order-search-tree/) | Increasing Order Search Tree | [897](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_897.java) | | Easy | Tree, DFS  
 [905](https://leetcode.com/problems/sort-array-by-parity/) | Sort Array By Parity | [905](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_905.java) | | Easy | Array  
 [922](https://leetcode.com/problems/sort-array-by-parity-ii/) | Sort Array By Parity II | [922](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_922.java) | | Easy | Array  
+[929](https://leetcode.com/problems/unique-email-addresses/) | Unique Email Addresses | [929](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_929.java) | | Easy | String  
 [933](https://leetcode.com/problems/number-of-recent-calls/) | Number of Recent Calls | [933](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_933.java) | | Easy | Queue  
 [942](https://leetcode.com/problems/di-string-match/) | DI String Match | [942](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_942.java) | | Easy | Math  
 [938](https://leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | [938](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_938.java) | | Easy | Tree, Recursion  

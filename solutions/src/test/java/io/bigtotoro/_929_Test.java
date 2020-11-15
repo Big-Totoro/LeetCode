@@ -29,6 +29,6 @@ public class _929_Test {
                 "testemail@leetcode.com",
                 "testemail1@leetcode.com",
                 "testemail+david@lee.tcode.com"
-        })).isEqualTo(2);
+        })).isEqualTo(3);
     }
 }

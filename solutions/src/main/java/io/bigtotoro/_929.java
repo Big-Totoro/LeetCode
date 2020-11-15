@@ -18,11 +18,16 @@ public class _929 {
 
             for (String email : emails) {
                 String[] parts = email.split("@");
-                String e = parts[0].replace(".", "");
-                if (e.contains("+")) {
-                    e = e.substring(0, e.indexOf("+"));
+                StringBuilder builder = new StringBuilder();
+                for (int i = 0; i < parts[0].length(); ++i) {
+                    if (parts[0].charAt(i) == '.') {
+                        continue;
+                    } else if (parts[0].charAt(i) == '+') {
+                        break;
+                    }
+                    builder.append(parts[0].charAt(i));
                 }
-                result.add(e + "@" + parts[1]);
+                result.add(builder.append("@").append(parts[1]).toString());
             }
 
             return result.size();

@@ -45,6 +45,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [617](https://leetcode.com/problems/merge-two-binary-trees/) | Merge Two Binary Trees | [617](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_617.java) | | Easy | Tree 
 [620](https://leetcode.com/problems/not-boring-movies/) | Not Boring Movies | [620](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_620.sql) | | Easy | SQL
 [627](https://leetcode.com/problems/swap-salary/) | Swap Salary | [627](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_627.sql) | | Easy | SQL
+[669](https://leetcode.com/problems/trim-a-binary-search-tree/) | Trim a Binary Search Tree | [669](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_669.sql) | | Easy | Tree
 [657](https://leetcode.com/problems/robot-return-to-origin/) | Robot Return to Origin | [657](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_657.java) | | Easy | String 
 [682](https://leetcode.com/problems/baseball-game/) | Baseball Game | [682](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_682.java) | | Easy | Stack 
 [705](https://leetcode.com/problems/design-hashset/) | Design HashSet | [705](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_705.java) | | Easy | HashSet, Design 

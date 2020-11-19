@@ -8,6 +8,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class _669_Test {
 
     private static _669.Solution1 solution1;
+    private static _669.Solution2 solution2;
 
     private static _669.TreeNode root1;
     private static _669.TreeNode root2;
@@ -24,6 +25,7 @@ public class _669_Test {
     @BeforeClass
     public static void setup() {
         solution1 = new _669.Solution1();
+        solution2 = new _669.Solution2();
 
         root1 = new _669.TreeNode(
                 1,
@@ -46,7 +48,7 @@ public class _669_Test {
         root3 = new _669.TreeNode(1);
 
         root4 = new _669.TreeNode(1,
-                null,
+                new _669.TreeNode(0),
                 new _669.TreeNode(2)
         );
 
@@ -83,25 +85,30 @@ public class _669_Test {
     @Test
     public void test11() {
         assertThat(solution1.trimBST(root1, 1, 2)).isEqualTo(expected1);
+        assertThat(solution2.trimBST(root1, 1, 2)).isEqualTo(expected1);
     }
 
     @Test
     public void test12() {
         assertThat(solution1.trimBST(root2, 1, 3)).isEqualTo(expected2);
+        assertThat(solution2.trimBST(root2, 1, 3)).isEqualTo(expected2);
     }
 
     @Test
     public void test13() {
         assertThat(solution1.trimBST(root3, 1, 2)).isEqualTo(expected3);
+        assertThat(solution2.trimBST(root3, 1, 2)).isEqualTo(expected3);
     }
 
     @Test
     public void test14() {
         assertThat(solution1.trimBST(root4, 1, 3)).isEqualTo(expected4);
+        assertThat(solution2.trimBST(root4, 1, 3)).isEqualTo(expected4);
     }
 
     @Test
     public void test15() {
         assertThat(solution1.trimBST(root5, 2, 4)).isEqualTo(expected5);
+        assertThat(solution2.trimBST(root5, 2, 4)).isEqualTo(expected5);
     }
 }

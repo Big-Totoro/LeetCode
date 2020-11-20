@@ -54,6 +54,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [760](https://leetcode.com/problems/find-anagram-mappings/) | Find Anagram Mappings | [760](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_760.java) | | Easy | Hash Table
 [771](https://leetcode.com/problems/jewels-and-stones/) | Jewels and Stones | [771](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_771.java) | | Easy | String  
 [804](https://leetcode.com/problems/unique-morse-code-words/) | Unique Morse Code Words | [804](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_804.java) | | Easy | String  
+[806](https://leetcode.com/problems/number-of-lines-to-write-string/) | Number of Lines To Write String | [806](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_806.java) | | Easy | String  
 [811](https://leetcode.com/problems/subdomain-visit-count/) | Subdomain Visit Count | [811](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_811.java) | | Easy | Hash Table  
 [821](https://leetcode.com/problems/shortest-distance-to-a-character/) |  Shortest Distance to a Character | [821](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_821.java) | | Easy | String  
 [824](https://leetcode.com/problems/goat-latin/) | Goat Latin | [824](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_824.java) | | Easy | String  

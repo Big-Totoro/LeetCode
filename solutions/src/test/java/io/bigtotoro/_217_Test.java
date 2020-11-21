@@ -5,10 +5,6 @@ import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-/**
- * <a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate</a>
- */
-
 public class _217_Test {
 
     private static _217.Solution1 solution1;

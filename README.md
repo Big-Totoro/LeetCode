@@ -39,6 +39,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [584](https://leetcode.com/problems/find-customer-referee/) | Find Customer Referee | [584](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_584.sql) | | Easy | SQL
 [586](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Customer Placing the Largest Number of Orders | [586](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_586.sql) | | Easy | SQL
 [589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | N-ary Tree Preorder Traversal | [589](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_589.java) | | Easy | Tree
+[590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | N-ary Tree Postorder Traversal | [590](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_590.java) | | Easy | Tree
 [595](https://leetcode.com/problems/big-countries/) | Big Countries | [595](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_595.sql) | | Easy | SQL
 [603](https://leetcode.com/problems/consecutive-available-seats/) | Consecutive Available Seats | [603](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_603.sql) | | Easy | SQL
 [607](https://leetcode.com/problems/sales-person/) | Sales Person | [607](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_607.sql) | | Easy | SQL

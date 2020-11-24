@@ -8,6 +8,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class _1474_Test {
 
     private static _1474.Solution1 solution1;
+    private static _1474.Solution2 solution2;
+
     private static _1474.ListNode head1;
     private static _1474.ListNode expected1;
     private static _1474.ListNode head2;
@@ -20,6 +22,7 @@ public class _1474_Test {
     @BeforeClass
     public static void setup() {
         solution1 = new _1474.Solution1();
+        solution2 = new _1474.Solution2();
 
         head1 = new _1474.ListNode(1,
                 new _1474.ListNode(2,
@@ -172,5 +175,32 @@ public class _1474_Test {
     @Test
     public void test14() {
         assertThat(solution1.deleteNodes(head4, 1, 2)).isEqualTo(expected4);
+    }
+
+
+    @Test
+    public void test20() {
+        _1474.ListNode head = new _1474.ListNode(1, new _1474.ListNode(2));
+        assertThat(solution2.deleteNodes(head, 1, 1)).isEqualTo(new _1474.ListNode(1));
+    }
+
+    @Test
+    public void test21() {
+        assertThat(solution2.deleteNodes(head1, 2, 3)).isEqualTo(expected1);
+    }
+
+    @Test
+    public void test22() {
+        assertThat(solution2.deleteNodes(head2, 1, 3)).isEqualTo(expected2);
+    }
+
+    @Test
+    public void test23() {
+        assertThat(solution2.deleteNodes(head3, 3, 1)).isEqualTo(expected3);
+    }
+
+    @Test
+    public void test24() {
+        assertThat(solution2.deleteNodes(head4, 1, 2)).isEqualTo(expected4);
     }
 }

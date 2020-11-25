@@ -1,8 +1,6 @@
 package io.bigtotoro;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 /**
  * <a href="https://leetcode.com/problems/binary-tree-level-order-traversal-ii/">107. Binary Tree Level Order Traversal II</a>
@@ -63,11 +61,25 @@ public class _107 {
             if (root == null) {
                 return List.of();
             }
-            List<List<Integer>> result = new ArrayList<>();
+            LinkedList<List<Integer>> result = new LinkedList<>();
+            Queue<TreeNode> queue = new LinkedList<>();
+            queue.offer(root);
+            while (!queue.isEmpty()) {
+                int size = queue.size();
+                List<Integer> level = new ArrayList<>();
+                for (int i = 0; i < size; ++i) {
+                    TreeNode top = queue.poll();
+                    level.add(top.val);
 
-            result.add(List.of(root.val));
-
-            Collections.reverse(result);
+                    if (top.left != null) {
+                        queue.offer(top.left);
+                    }
+                    if (top.right != null) {
+                        queue.offer(top.right);
+                    }
+                }
+                result.addFirst(level);
+            }
 
             return result;
         }

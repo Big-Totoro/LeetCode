@@ -10,6 +10,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class _107_Test {
 
     private static _107.Solution1 solution1;
+    private static _107.Solution2 solution2;
 
     private static _107.TreeNode root1;
     private static _107.TreeNode root2;
@@ -17,6 +18,7 @@ public class _107_Test {
     @BeforeClass
     public static void setup() {
         solution1 = new _107.Solution1();
+        solution2 = new _107.Solution2();
 
         root1 = new _107.TreeNode(3,
                 new _107.TreeNode(9),
@@ -46,6 +48,18 @@ public class _107_Test {
     @Test
     public void test12() {
         assertThat(solution1.levelOrderBottom(root2))
+                .isEqualTo(List.of(List.of(4, 5), List.of(2, 3), List.of(1)));
+    }
+
+    @Test
+    public void test21() {
+        assertThat(solution2.levelOrderBottom(root1))
+                .isEqualTo(List.of(List.of(15, 7), List.of(9, 20), List.of(3)));
+    }
+
+    @Test
+    public void test22() {
+        assertThat(solution2.levelOrderBottom(root2))
                 .isEqualTo(List.of(List.of(4, 5), List.of(2, 3), List.of(1)));
     }
 }

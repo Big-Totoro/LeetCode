@@ -4,6 +4,8 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 -------|-------------------|-----------|-------|-------------|------------
 [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | [13](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_13.java) | | Easy | String, Math
 [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | [21](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_21.java) | | Easy | LinkedList
+[46](https://leetcode.com/problems/permutations/) | Permutations | [46](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_46.java) | | Medium | Backtracking
+[51](https://leetcode.com/problems/n-queens/) | N-Queens | [51](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_51.java) | | Hard | Backtracking
 [100](https://leetcode.com/problems/same-tree/) | Same Tree | [100](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_100.java) | | Easy | Tree, DFS
 [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree | [104](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_104.java) | | Easy | Tree, DFS
 [107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Binary Tree Level Order Traversal II | [107](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_107.java) | | Easy | Tree

@@ -2,6 +2,7 @@
 
 Number | Title             | Solution  | Video |	Difficulty | Tag
 -------|-------------------|-----------|-------|-------------|------------
+[1](https://leetcode.com/problems/two-sum/) | Two Sum | [1](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1.java) | | Easy | Array
 [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | [13](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_13.java) | | Easy | String, Math
 [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | [21](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_21.java) | | Easy | LinkedList
 [46](https://leetcode.com/problems/permutations/) | Permutations | [46](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_46.java) | | Medium | Backtracking

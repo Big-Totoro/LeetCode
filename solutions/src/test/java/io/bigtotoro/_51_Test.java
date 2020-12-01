@@ -12,10 +12,10 @@ public class _51_Test {
 
     @Test
     public void test11() {
-        assertThat(solution1.solveNQueens(4)).isEqualTo(List.of(
+        assertThat(solution1.solveNQueens(4)).containsExactlyInAnyOrder(
                 List.of(".Q..", "...Q", "Q...", "..Q."),
                 List.of("..Q.", "Q...", "...Q", ".Q..")
-        ));
+        );
     }
 
     @Test

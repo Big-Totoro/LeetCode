@@ -34,16 +34,31 @@ public class _51 {
             occupiedPrimaryDiag = new boolean[n + n - 1];
             occupiedSecondaryDiag = new boolean[n + n - 1];
 
-            boolean solved = solveNQueens(board, n, 0);
+            List<List<String>> result = new ArrayList<>();
+            solveNQueens(board, n, 0, result);
 
-            return null;
+            return result;
         }
 
-        private boolean solveNQueens(int[][] board, int queens, int column) {
+        private boolean solveNQueens(int[][] board, int queens, int column, List<List<String>> result) {
+            /**
+             * If we reach the last column then it means we solved the problem
+             */
             if (column >= queens) {
-                return true;
+                /**
+                 * Add the solution to the result list
+                 */
+                result.add(toList(board));
+
+                /**
+                 * Uncomment it for the first solution only
+                 */
+                //return true;
             }
 
+            /**
+             * Loop through all rows of the board trying to place the queen and solve the problem
+             */
             for (int i = 0; i < board.length; ++i) {
                 if (canPlaceQueenHere(board, i, column)) {
                     /**
@@ -66,7 +81,7 @@ public class _51 {
                     /**
                      * Try to place the queen on the next column
                      */
-                    if (solveNQueens(board, queens, column + 1)) {
+                    if (solveNQueens(board, queens, column + 1, result)) {
                         return true;
                     }
 
@@ -77,15 +92,15 @@ public class _51 {
                     /**
                      * Mark the row as available
                      */
-                    occupiedRows[i] = true;
+                    occupiedRows[i] = false;
                     /**
                      * Mark the primary diagonal as available
                      */
-                    occupiedPrimaryDiag[i - column + board[0].length - 1] = true;
+                    occupiedPrimaryDiag[i - column + board[0].length - 1] = false;
                     /**
                      * Mark the secondary diagonal as available
                      */
-                    occupiedSecondaryDiag[i + column] = true;
+                    occupiedSecondaryDiag[i + column] = false;
                 }
             }
 
@@ -107,17 +122,20 @@ public class _51 {
             return true;
         }
 
-        private List<List<String>> toList(int[][] board) {
-            List<List<String>> result = new ArrayList<>();
+        /**
+         * Convert the board to the list of strings
+         * @param board board
+         * @return the list of strings
+         */
+        private List<String> toList(int[][] board) {
+            List<String> result = new ArrayList<>();
 
             for (int i = 0; i < board.length; ++i) {
-                List<String> row = new ArrayList<>();
                 StringBuilder builder = new StringBuilder();
                 for (int j = 0; j < board[0].length; ++j) {
                     builder.append(board[i][j] == 1 ? "Q" : ".");
                 }
-                row.add(builder.toString());
-                result.add(row);
+                result.add(builder.toString());
             }
 
             return result;

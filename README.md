@@ -4,9 +4,9 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 -------|-------------------|-----------|-------|-------------|------------
 [1](https://leetcode.com/problems/two-sum/) | Two Sum | [1](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1.java) | | Easy | Array
 [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | [13](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_13.java) | | Easy | String, Math
-[15](https://leetcode.com/problems/3sum/) | 3Sum | [15](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_15.java) | | Medium | Array
+[15](https://leetcode.com/problems/3sum/) | 3Sum | [15](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_15.java) | | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Medium | Array
 [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | [21](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_21.java) | | Easy | LinkedList
-[46](https://leetcode.com/problems/permutations/) | Permutations | [46](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_46.java) | | Medium | Backtracking
+[46](https://leetcode.com/problems/permutations/) | Permutations | [46](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_46.java) | | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Medium | Backtracking
 [51](https://leetcode.com/problems/n-queens/) | N-Queens | [51](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_51.java) | | Hard | Backtracking
 [60](https://leetcode.com/problems/permutation-sequence/) | Permutation Sequence | [60](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_60.java) | | Hard | Backtracking
 [100](https://leetcode.com/problems/same-tree/) | Same Tree | [100](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_100.java) | | Easy | Tree, DFS
@@ -40,7 +40,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [500](https://leetcode.com/problems/keyboard-row/) | Keyboard Row | [500](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_500.java) | | Easy | Hash Table
 [509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | [509](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_509.java) | | Easy | Array
 [511](https://leetcode.com/problems/game-play-analysis-i/) | Game Play Analysis I | [511](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_511.sql) | | Easy | SQL
-[535](https://leetcode.com/problems/encode-and-decode-tinyurl/) | Encode and Decode TinyURL | [535](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_535.java) | | Medium | HashTable
+[535](https://leetcode.com/problems/encode-and-decode-tinyurl/) | Encode and Decode TinyURL | [535](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_535.java) | | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Medium | HashTable
 [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | [557](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_557.java) | | Easy | String
 [559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Maximum Depth of N-ary Tree | [559](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_559.java) | | Easy | Tree
 [561](https://leetcode.com/problems/array-partition-i/) | Array Partition I | [561](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_561.java) | | Easy | Array
@@ -75,7 +75,7 @@ Number | Title             | Solution  | Video |	Difficulty | Tag
 [824](https://leetcode.com/problems/goat-latin/) | Goat Latin | [824](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_824.java) | | Easy | String  
 [832](https://leetcode.com/problems/flipping-an-image/) | Flipping an Image | [832](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_832.java) | | Easy | Array  
 [852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | [852](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_852.java) | | Easy | Array  
-[872](https://leetcode.com/problems/leaf-similar-trees/) | Leaf-Similar Trees | [872](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_872.java) | | Medium | Tree 
+[872](https://leetcode.com/problems/leaf-similar-trees/) | Leaf-Similar Trees | [872](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_872.java) | | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Medium | Tree 
 [876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | [876](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_876.java) | | Easy | Linked List  
 [897](https://leetcode.com/problems/increasing-order-search-tree/) | Increasing Order Search Tree | [897](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_897.java) | | Easy | Tree, DFS  
 [905](https://leetcode.com/problems/sort-array-by-parity/) | Sort Array By Parity | [905](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_905.java) | | Easy | Array  

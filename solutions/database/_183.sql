@@ -12,7 +12,7 @@ WHERE c.id NOT IN (
     FROM Orders o);
 
 /**
-  Solution 1
+  Solution 2
  */
 SELECT c.name AS Customers
 FROM Customers c

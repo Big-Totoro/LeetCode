@@ -21,20 +21,4 @@ public class _706_Test {
         hashMap.remove(2);
         assertThat(hashMap.get(2)).isEqualTo(-1);
     }
-
-    @Test
-    public void test12() {
-        _706.MyHashMap2 hashMap = new _706.MyHashMap2();
-
-        hashMap.put(1, 1);
-        hashMap.put(2, 2);
-        assertThat(hashMap.get(1)).isEqualTo(1);
-        assertThat(hashMap.get(3)).isEqualTo(-1);
-
-        hashMap.put(2, 1);
-        assertThat(hashMap.get(2)).isEqualTo(1);
-
-        hashMap.remove(2);
-        assertThat(hashMap.get(2)).isEqualTo(-1);
-    }
 }

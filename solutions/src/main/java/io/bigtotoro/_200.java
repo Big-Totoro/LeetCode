@@ -8,6 +8,10 @@ import java.util.Queue;
  */
 
 public class _200 {
+    /**
+     * Based on Count Connection Components, BFS
+     * For example, https://www.geeksforgeeks.org/islands-in-a-graph-using-bfs/?ref=lbp
+     */
     public static class Solution1 {
         public static class Position {
             private int r;

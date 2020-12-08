@@ -2,6 +2,7 @@ package io.bigtotoro;
 
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 
 /**
  * <a href="https://leetcode.com/problems/number-of-islands/">200. Number of Islands</a>
@@ -137,6 +138,65 @@ public class _200 {
             dfs(r, c + 1, grid);
             dfs(r - 1, c, grid);
             dfs(r, c - 1, grid);
+        }
+    }
+
+    public static class Solution3 {
+
+        public static class Position {
+            private int r;
+            private int c;
+
+            public static Position valueOf(int r, int c) {
+                Position p = new Position();
+                p.r = r;
+                p.c = c;
+
+                return p;
+            }
+        }
+
+        public int numIslands(char[][] grid) {
+            if (grid == null || grid.length == 0) {
+                return 0;
+            }
+
+            int islands = 0;
+
+            for (int r = 0; r < grid.length; ++r) {
+                for (int c = 0; c < grid[0].length; ++c) {
+                    if (grid[r][c] == '1') {
+                        ++islands;
+                        dfs(r, c, grid);
+                    }
+                }
+            }
+
+            return islands;
+        }
+
+        private void dfs(int r, int c, char[][] grid) {
+            Stack<Position> stack = new Stack<>();
+            stack.push(Position.valueOf(r, c));
+
+            while (!stack.isEmpty()) {
+                Position currentPosition = stack.pop();
+                if (isIslandPosition(currentPosition, grid) && grid[currentPosition.r][currentPosition.c] == '1') {
+                    grid[currentPosition.r][currentPosition.c] = '0';
+
+                    stack.push(Position.valueOf(currentPosition.r + 1, currentPosition.c));
+                    stack.push(Position.valueOf(currentPosition.r, currentPosition.c + 1));
+                    stack.push(Position.valueOf(currentPosition.r - 1, currentPosition.c));
+                    stack.push(Position.valueOf(currentPosition.r, currentPosition.c - 1));
+                }
+            }
+        }
+
+        private boolean isIslandPosition(Position position, char[][] grid) {
+            if (position.r < 0 || position.c < 0 || position.r > grid.length - 1 || position.c > grid[0].length - 1) {
+                return false;
+            }
+            return true;
         }
     }
 }

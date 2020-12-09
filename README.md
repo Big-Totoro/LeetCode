@@ -8,6 +8,7 @@ Easy | Medium | Hard
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
 [1](https://leetcode.com/problems/two-sum/) | Two Sum | [1](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[2](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers | [2](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_2.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Linked List
 [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | [13](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_13.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String, Math
 [15](https://leetcode.com/problems/3sum/) | 3Sum | [15](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_15.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Array
 [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of a Phone Number | [17](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_17.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | String, DFS, Backtracking

@@ -1,7 +1,5 @@
 package io.bigtotoro;
 
-import org.w3c.dom.NodeList;
-
 import java.util.Objects;
 
 /**

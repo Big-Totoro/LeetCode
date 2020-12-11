@@ -10,7 +10,7 @@ package io.bigtotoro;
  };
 
 public class _1265 {
-    public static class Solution {
+    public static class Solution1 {
         public void printLinkedListInReverse(ImmutableListNode head) {
             if (head == null) {
                 return;

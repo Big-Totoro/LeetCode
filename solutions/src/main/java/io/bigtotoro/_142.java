@@ -38,7 +38,7 @@ public class _142 {
     }
 
     public static class Solution1 {
-        public ListNode hasCycle(_142.ListNode head) {
+        public ListNode detectCycle(_142.ListNode head) {
             Set<ListNode> set = new HashSet<>();
             while (head != null) {
                 if (!set.add(head)) {
@@ -48,6 +48,45 @@ public class _142 {
             }
 
             return null;
+        }
+    }
+
+    /**
+     * Floyd's Tortoise and Hare algorithm
+     */
+    public static class Solution2 {
+        public ListNode detectCycle(_142.ListNode head) {
+            ListNode tortoise = head;
+            ListNode hare = head;
+
+            /**
+             * Looking for the cycle.
+             */
+            boolean cycle = false;
+            while (hare != null && hare.next != null) {
+                tortoise = tortoise.next;
+                hare = hare.next.next;
+                if (tortoise == hare) {
+                    cycle = true;
+                    break;
+                }
+            }
+
+            /**
+             * Move the tortoise to the beginning of the list and then move tortoise and hare step by step further
+             * until they meet. The point of meet will be the first cycle element.
+             */
+            if (cycle) {
+                hare = head;
+                while (hare != tortoise) {
+                    hare = hare.next;
+                    tortoise = tortoise.next;
+                }
+            } else {
+                return null;
+            }
+
+            return hare;
         }
     }
 }

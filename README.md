@@ -1,9 +1,9 @@
 # The [LeetCode](https://leetcode.com/problemset/algorithms/)
 
-#### Legend
-Easy | Medium | Hard
--------|---------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
+### Result
+Easy | Medium | Hard | Overall
+-------|---------|-------|-------|
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 171 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 15 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 189
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------

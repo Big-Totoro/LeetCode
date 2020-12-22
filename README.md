@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 173 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 15 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 191
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 175 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 15 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 193
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -190,6 +190,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Can Make Arithmetic Progression From Sequence | [1502](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1502.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1511](https://leetcode.com/problems/customer-order-frequency/) | Customer Order Frequency | [1511](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1511.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | [1512](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1512.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[1517](https://leetcode.com/problems/find-users-with-valid-e-mails/) | Find Users With Valid E-Mails | [1517](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1517.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [1527](https://leetcode.com/problems/patients-with-a-condition/) | Patients With a Condition | [1527](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1527.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [1528](https://leetcode.com/problems/shuffle-string/) | Shuffle String | [1528](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1528.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Sort
 [1534](https://leetcode.com/problems/count-good-triplets/) | Count Good Triplets | [1534](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1534.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array

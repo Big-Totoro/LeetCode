@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 175 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 15 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 193
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 176 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 15 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 194
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -134,6 +134,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [1075](https://leetcode.com/problems/project-employees-i/) | Project Employees I | [1075](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1069.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [1082](https://leetcode.com/problems/sales-analysis-i/) | Sales Analysis I | [1082](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1082.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [1085](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/) | Sum of Digits in the Minimum Number | [1085](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1185.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[1114](https://leetcode.com/problems/print-in-order/) | Print In Order | [1114](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1114.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Thread
 [1122](https://leetcode.com/problems/relative-sort-array/) | Relative Sort Array | [1122](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1122.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1133](https://leetcode.com/problems/largest-unique-number/) | Largest Unique Number | [1133](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1133.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1180](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | Count Substrings with Only One Distinct Letter | [1180](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1180.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String

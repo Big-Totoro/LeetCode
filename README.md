@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 176 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 15 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 194
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 177 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 15 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 195
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -23,6 +23,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree | [104](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_104.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree, DFS
 [107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Binary Tree Level Order Traversal II | [107](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_107.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree
 [118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | [118](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_118.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[119](https://leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | [119](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_119.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock | [121](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_121.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Best Time to Buy and Sell Stock II | [122](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_122.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array, Greedy
 [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence | [128](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_128.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | Array

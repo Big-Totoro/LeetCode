@@ -32,8 +32,8 @@ public class _743 {
             /**
              * Initialize distance array, visited array and source node
              */
-            boolean[] visited = new boolean[N];
-            int[] distance = new int[N];
+            boolean[] visited = new boolean[N + 1];
+            int[] distance = new int[N + 1];
 
             // All nodes (except the source node) have infinite distance from the source node
             Arrays.fill(distance, Integer.MAX_VALUE);
@@ -49,16 +49,32 @@ public class _743 {
                 int currentNode = queue.poll();
                 int currentNodeWight = distance[currentNode];
 
-                // Iterate through the neighbors of the current node
-                for (int nextNode : graph.get(currentNode).keySet()) {
-                    int nextNodeWeight = graph.get(currentNode).get(nextNode);
-                    if (currentNodeWight + nextNodeWeight < currentNodeWight) {
+                if (!visited[currentNode]) {
+                    visited[currentNode] = true;
 
+                    // Iterate through the neighbors of the current node
+                    for (int nextNode : graph.getOrDefault(currentNode, new HashMap<>()).keySet()) {
+                        if (!visited[nextNode]) {
+                            int nextNodeWeight = graph.get(currentNode).get(nextNode);
+                            if (currentNodeWight + nextNodeWeight < distance[nextNode]) {
+                                distance[nextNode] = currentNodeWight + nextNodeWeight;
+                                queue.offer(nextNode);
+                            }
+                        }
                     }
                 }
             }
 
-            return 1;
+            int maxTime = Integer.MIN_VALUE;
+            for (int i = 1; i <= N; ++i) {
+                if (distance[i] == Integer.MAX_VALUE) {
+                    return -1;
+                }
+
+                maxTime = Math.max(maxTime, distance[i]);
+            }
+
+            return maxTime;
         }
     }
 }

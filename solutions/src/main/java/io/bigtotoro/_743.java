@@ -32,7 +32,6 @@ public class _743 {
             /**
              * Initialize distance array, visited array and source node
              */
-            boolean[] visited = new boolean[N + 1];
             int[] distance = new int[N + 1];
 
             // All nodes (except the source node) have infinite distance from the source node
@@ -42,25 +41,19 @@ public class _743 {
             distance[K] = 0;
 
             // Initialize the queue and push the source node as first element of the queue
-            Queue<Integer> queue = new LinkedList<>();
+            Queue<Integer> queue = new PriorityQueue<>();
             queue.offer(K);
 
             while (!queue.isEmpty()) {
                 int currentNode = queue.poll();
                 int currentNodeWight = distance[currentNode];
 
-                if (!visited[currentNode]) {
-                    visited[currentNode] = true;
-
-                    // Iterate through the neighbors of the current node
-                    for (int nextNode : graph.getOrDefault(currentNode, new HashMap<>()).keySet()) {
-                        if (!visited[nextNode]) {
-                            int nextNodeWeight = graph.get(currentNode).get(nextNode);
-                            if (currentNodeWight + nextNodeWeight < distance[nextNode]) {
-                                distance[nextNode] = currentNodeWight + nextNodeWeight;
-                                queue.offer(nextNode);
-                            }
-                        }
+                for (int nextNode : graph.getOrDefault(currentNode, new HashMap<>()).keySet()) {
+                    int nextNodeWeight = graph.get(currentNode).get(nextNode);
+                    int newDistance = currentNodeWight + nextNodeWeight;
+                    if (newDistance < distance[nextNode]) {
+                        distance[nextNode] = newDistance;
+                        queue.offer(nextNode);
                     }
                 }
             }

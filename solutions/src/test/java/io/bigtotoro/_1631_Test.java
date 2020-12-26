@@ -40,4 +40,9 @@ public class _1631_Test {
         assertThat(solution2.minimumEffortPath(new int[][]{{1, 2, 1, 1, 1}, {1, 2, 1, 2, 1}, {1, 2, 1, 2, 1},
                 {1, 2, 1, 2, 1}, {1, 1, 1, 2, 1}})).isEqualTo(0);
     }
+
+    @Test
+    public void test24() {
+        assertThat(solution2.minimumEffortPath(new int[][]{{1, 10, 6, 7, 9, 10, 4, 9}})).isEqualTo(9);
+    }
 }

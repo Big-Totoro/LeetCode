@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 179 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 18 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 200
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 180 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 18 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 201
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -147,6 +147,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [1165](https://leetcode.com/problems/single-row-keyboard/) | Single-Row Keyboard | [1165](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1165.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
 [1108](https://leetcode.com/problems/defanging-an-ip-address/) | Defanging an IP Address | [1108](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1108.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
 [1173](https://leetcode.com/problems/immediate-food-delivery-i/) | Immediate Food Delivery I | [1173](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1173.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
+[1176](https://leetcode.com/problems/diet-plan-performance/) | Diet Plan Performance | [1176](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1176.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1179](https://leetcode.com/problems/reformat-department-table/) | Reformat Department Table | [1179](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1179.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [1196](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | How Many Apples Can You Put into the Basket | [1196](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1196.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1200](https://leetcode.com/problems/minimum-absolute-difference/) | Minimum Absolute Difference | [1200](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1200.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array

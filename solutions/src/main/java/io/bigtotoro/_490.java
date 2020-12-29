@@ -1,6 +1,5 @@
 package io.bigtotoro;
 
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -12,19 +11,13 @@ public class _490 {
 
     public static class Solution1 {
         public boolean hasPath(int[][] maze, int[] start, int[] destination) {
-            int[][] distances = new int[maze.length][maze[0].length];
-            for (int i = 0; i < maze.length; ++i) {
-                Arrays.fill(distances[i], Integer.MAX_VALUE);
-            }
-            distances[start[0]][start[1]] = 0;
-
-            bfs(maze, start[0], start[1], distances);
-
-            return (distances[destination[0]][destination[1]] == Integer.MAX_VALUE) ? false : true;
+            return bfs(maze, start[0], start[1], destination);
         }
 
-        private void bfs(int[][] maze, int startX, int startY, int[][] distances) {
+        private boolean bfs(int[][] maze, int startX, int startY, int[] destination) {
             final Integer[][] directions = new Integer[][] {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+            boolean[][] visited = new boolean[maze.length][maze[0].length];
+            visited[startX][startY] = true;
             Queue<Integer[]> queue = new LinkedList<>();
             queue.offer(new Integer[] {startX, startY});
 
@@ -33,25 +26,29 @@ public class _490 {
                 startX = top[0];
                 startY = top[1];
 
+                if (startX == destination[0] && startY == destination[1]) {
+                    return true;
+                }
+
                 for (Integer[] direction : directions) {
                     int x = startX + direction[0];
                     int y = startY + direction[1];
 
-                    int steps = 0;
                     while (isValid(maze, x, y) && maze[x][y] == 0) {
                         x += direction[0];
                         y += direction[1];
-                        ++steps;
                     }
 
                     x -= direction[0];
                     y -= direction[1];
-                    if (isValid(maze, x, y) && distances[x][y] > distances[x][y] + steps) {
-                        distances[x][y] = distances[startX][startY] + steps;
+                    if (isValid(maze, x, y) && !visited[x][y]) {
+                        visited[x][y] = true;
                         queue.offer(new Integer[]{x, y});
                     }
                 }
             }
+
+            return false;
         }
 
         private boolean isValid(int[][] maze, int x, int y) {

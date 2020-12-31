@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 183 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 21 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 207
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 184 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 21 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 208
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -190,6 +190,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Kids With the Greatest Number of Candies | [1431](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1431.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1435](https://leetcode.com/problems/create-a-session-bar-chart/) | Create a Session Bar Chart | [1435](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1435.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [1436](https://leetcode.com/problems/destination-city/) | Destination City | [1436](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1436.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
+[1441](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Build an Array With Stack Operations | [1441](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1441.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Stack
 [1450](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | Number of Students Doing Homework at a Given Time | [1450](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1450.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | Make Two Arrays Equal by Reversing Sub-arrays | [1460](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1460.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Maximum Product of Two Elements in an Array | [1464](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1464.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array

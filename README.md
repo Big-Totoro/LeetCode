@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 184 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 21 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 208
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 185 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 21 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 209
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -50,6 +50,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | [242](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_242.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable, Sort
 [243](https://leetcode.com/problems/shortest-word-distance/) | Shortest Word Distance | [243](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_243.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [252](https://leetcode.com/problems/meeting-rooms/) | Meeting Rooms | [252](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_252.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[257](https://leetcode.com/problems/binary-tree-paths/) | Binary Tree Paths | [257](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_257.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree, DFS
 [258](https://leetcode.com/problems/add-digits/) | Add Digits | [258](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_258.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [283](https://leetcode.com/problems/move-zeroes/) | Move Zeros | [283](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_283.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [292](https://leetcode.com/problems/nim-game/) | Nim Game | [292](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_292.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math, Brainteaser

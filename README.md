@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 185 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 21 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 209
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 186 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 21 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 210
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------

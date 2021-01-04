@@ -17,4 +17,9 @@ public class _567_Test {
     public void test12() {
         assertThat(SOLUTION_1.checkInclusion("ab", "eidboaoo")).isFalse();
     }
+
+    @Test
+    public void test13() {
+        assertThat(SOLUTION_1.checkInclusion("adc", "dcda")).isTrue();
+    }
 }

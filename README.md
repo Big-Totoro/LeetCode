@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 187 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 22 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 212
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 188 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 22 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 213
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -53,6 +53,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [252](https://leetcode.com/problems/meeting-rooms/) | Meeting Rooms | [252](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_252.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [257](https://leetcode.com/problems/binary-tree-paths/) | Binary Tree Paths | [257](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_257.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree, DFS
 [258](https://leetcode.com/problems/add-digits/) | Add Digits | [258](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_258.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
+[268](https://leetcode.com/problems/missing-number/) | Missing Number | [268](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_268.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math, Bit Manipulation
 [283](https://leetcode.com/problems/move-zeroes/) | Move Zeros | [283](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_283.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [292](https://leetcode.com/problems/nim-game/) | Nim Game | [292](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_292.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math, Brainteaser
 [293](https://leetcode.com/problems/flip-game/) | Flip Game | [293](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_293.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String

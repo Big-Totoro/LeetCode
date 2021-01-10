@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 191 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 23 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 217
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 192 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 23 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 218
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -64,6 +64,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [344](https://leetcode.com/problems/reverse-string/) | Reverse String | [344](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_344.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String, Two pointers
 [346](https://leetcode.com/problems/moving-average-from-data-stream/) | Moving Average from Data Stream | [346](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_346.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Queue
 [359](https://leetcode.com/problems/logger-rate-limiter/) | Logger Rate Limiter | [359](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_359.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Hash Table
+[387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | [387](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_387.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Hash Table
 [389](https://leetcode.com/problems/find-the-difference/) | Find the Difference | [389](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_389.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Hash Table
 [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | [412](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_412.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | [448](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_448.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array

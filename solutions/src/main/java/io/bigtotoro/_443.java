@@ -56,34 +56,30 @@ public class _443 {
                 return 1;
             }
 
-            List<Character> result = new ArrayList<>();
             int counter = 1;
+            int index = 0;
             for (int i = 1; i < chars.length; ++i) {
                 if (chars[i - 1] == chars[i]) {
                     counter++;
                 } else {
-                    result.add(chars[i - 1]);
+                    chars[index++] = chars[i - 1];
                     if (counter > 1) {
                         for (char c : String.valueOf(counter).toCharArray()) {
-                            result.add(c);
+                            chars[index++] = c;
                         }
                     }
                     counter = 1;
                 }
             }
 
-            result.add(chars[chars.length - 1]);
+            chars[index++] = chars[chars.length - 1];
             if (counter > 1) {
                 for (char c : String.valueOf(counter).toCharArray()) {
-                    result.add(c);
+                    chars[index++] = c;
                 }
             }
 
-            for (int i = 0; i < result.size(); ++i) {
-                chars[i] = result.get(i);
-            }
-
-            return result.size();
+            return index;
         }
     }
 }

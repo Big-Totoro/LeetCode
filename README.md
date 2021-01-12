@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 192 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 24 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 219
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 192 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 25 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 220
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -20,6 +20,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [39](https://leetcode.com/problems/combination-sum/) | Combination Sum | [39](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_39.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Backtracking
 [40](https://leetcode.com/problems/combination-sum-ii/) | Combination Sum II | [40](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_40.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Backtracking
 [46](https://leetcode.com/problems/permutations/) | Permutations | [46](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_46.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Backtracking
+[48](https://leetcode.com/problems/rotate-image/) | Rotate Image | [48](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_48.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, Array
 [51](https://leetcode.com/problems/n-queens/) | N-Queens | [51](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_51.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | Backtracking
 [60](https://leetcode.com/problems/permutation-sequence/) | Permutation Sequence | [60](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_60.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | Backtracking
 [88](https://leetcode.com/problems/merge-sorted-array/) | Merge Sorted Array | [88](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_88.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | CTCI, Array

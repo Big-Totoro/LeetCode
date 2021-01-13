@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 192 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 25 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 220
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 192 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 26 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 221
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -23,6 +23,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [48](https://leetcode.com/problems/rotate-image/) | Rotate Image | [48](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_48.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, Array
 [51](https://leetcode.com/problems/n-queens/) | N-Queens | [51](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_51.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | Backtracking
 [60](https://leetcode.com/problems/permutation-sequence/) | Permutation Sequence | [60](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_60.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | Backtracking
+[73](https://leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zeroes | [73](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_73.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, Array
 [88](https://leetcode.com/problems/merge-sorted-array/) | Merge Sorted Array | [88](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_88.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | CTCI, Array
 [100](https://leetcode.com/problems/same-tree/) | Same Tree | [100](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_100.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree, DFS
 [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree | [104](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_104.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree, DFS

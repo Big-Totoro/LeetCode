@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 192 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 26 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 221
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 193 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 26 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 222
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -116,6 +116,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Prime Number of Set Bits in Binary Representation | [762](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_762.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Bit Manipulation
 [771](https://leetcode.com/problems/jewels-and-stones/) | Jewels and Stones | [771](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_771.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String  
 [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops | [787](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_787.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Graph
+[796](https://leetcode.com/problems/rotate-string/) | Rotate String | [796](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_796.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, Array
 [804](https://leetcode.com/problems/unique-morse-code-words/) | Unique Morse Code Words | [804](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_804.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String  
 [806](https://leetcode.com/problems/number-of-lines-to-write-string/) | Number of Lines To Write String | [806](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_806.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String  
 [811](https://leetcode.com/problems/subdomain-visit-count/) | Subdomain Visit Count | [811](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_811.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Hash Table  

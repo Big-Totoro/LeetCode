@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 194 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 26 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 223
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 194 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 27 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 224
 
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
@@ -14,6 +14,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | [13](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_13.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String, Math
 [15](https://leetcode.com/problems/3sum/) | 3Sum | [15](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_15.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Array
 [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of a Phone Number | [17](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_17.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | String, DFS, Backtracking
+[19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List | [19](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_19.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, LinkedList
 [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | [21](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_21.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | LinkedList
 [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [22](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_22.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | String, Backtracking
 [27](https://leetcode.com/problems/remove-element/) | Remove Element | [27](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_27.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array

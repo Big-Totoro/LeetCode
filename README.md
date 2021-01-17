@@ -5,6 +5,8 @@ Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 194 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 28 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 225
 
+The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
+
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
 [1](https://leetcode.com/problems/two-sum/) | Two Sum | [1](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array

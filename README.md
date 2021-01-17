@@ -8,7 +8,7 @@ Easy | Medium | Hard | Overall
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
 [1](https://leetcode.com/problems/two-sum/) | Two Sum | [1](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
-[2](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers | [2](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_2.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Linked List
+[2](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers | [2](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_2.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, Linked List
 [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | [3](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_3.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | String
 [9](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | [9](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_9.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | [13](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_13.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String, Math

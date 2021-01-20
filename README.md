@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 196 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 28 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 227
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 197 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 28 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 228
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
 
@@ -12,6 +12,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [1](https://leetcode.com/problems/two-sum/) | Two Sum | [1](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [2](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers | [2](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_2.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, LinkedList
 [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | [3](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_3.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | String
+[5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | [5](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_5.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | String
 [9](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | [9](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_9.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | [13](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_13.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String, Math
 [15](https://leetcode.com/problems/3sum/) | 3Sum | [15](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_15.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Array
@@ -41,6 +42,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [136](https://leetcode.com/problems/single-number/) | Single Number | [136](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_136.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array, BitManipulation
 [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | [141](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_141.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | CTCI, LinkedList
 [142](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List Cycle II | [142](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_142.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | LinkedList
+[155](https://leetcode.com/problems/min-stack/) | Min Stack | [155](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_155.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | CTCI, Stack
 [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Intersection of Two Linked Lists | [160](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_160.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | CTCI, LinkedList
 [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Sum II - Input array is sorted | [167](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_167.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array, TwoPointers, BinarySearch
 [171](https://leetcode.com/problems/excel-sheet-column-number/) | Excel Sheet Column Number | [171](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_171.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math

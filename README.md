@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 198 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 30 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 231
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 199 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 30 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 232
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
 
@@ -236,7 +236,9 @@ Number | Title             | Solution  | Difficulty       | Tag
 [1571](https://leetcode.com/problems/warehouse-manager/) | Warehouse Manager | [1571](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1571.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [1572](https://leetcode.com/problems/matrix-diagonal-sum/) | Matrix Diagonal Sum | [1572](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1572.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Sort
 [1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Customer Who Visited but Did Not Make Any Transactions | [1581](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1581.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
-[1631](https://leetcode.com/problems/path-with-minimum-effort/) | Path With Minimum Effort | [1631](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1631.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Graph
+[1572](https://leetcode.com/problems/matrix-diagonal-sum/) | Matrix Diagonal Sum | [1572](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1572.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Sort
+[1710](https://leetcode.com/problems/maximum-units-on-a-truck/) | Maximum Units on a Truck | [1710](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1710.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Greedy
+[1725](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | Number Of Rectangles That Can Form The Largest Square | [1725](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1725.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Greedy
 
 #### Legend
 Easy | Medium | Hard

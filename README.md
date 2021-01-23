@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 199 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 32 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 234
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 199 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 33 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 235
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
 
@@ -44,6 +44,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [142](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List Cycle II | [142](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_142.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | LinkedList
 [155](https://leetcode.com/problems/min-stack/) | Min Stack | [155](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_155.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | CTCI, Stack
 [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Intersection of Two Linked Lists | [160](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_160.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | CTCI, LinkedList
+[161](https://leetcode.com/problems/one-edit-distance/) | One Edit Distance | [161](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_161.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | String
 [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Sum II - Input array is sorted | [167](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_167.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array, TwoPointers, BinarySearch
 [171](https://leetcode.com/problems/excel-sheet-column-number/) | Excel Sheet Column Number | [171](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_171.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [175](https://leetcode.com/problems/combine-two-tables/) | Combine Two Tables | [175](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_175.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL

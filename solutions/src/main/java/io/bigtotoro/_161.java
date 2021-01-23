@@ -87,11 +87,11 @@ public class _161 {
 
             for (int i = 1; i <= N; ++i) {
                 for (int j = 1; j <= M; ++j) {
-                    int insert = 1 + d[i - 1][j];
-                    int delete = 1 + d[i][j - 1];
+                    int delete = 1 + d[i - 1][j];
+                    int insert = 1 + d[i][j - 1];
                     int matchOrReplace = d[i - 1][j - 1] + (s.charAt(i - 1) == t.charAt(j - 1) ? 0 : 1);
 
-                    d[i][j] = Math.min(insert, Math.min(delete, matchOrReplace));
+                    d[i][j] = Math.min(delete, Math.min(insert, matchOrReplace));
                 }
             }
 

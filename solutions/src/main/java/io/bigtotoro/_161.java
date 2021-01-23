@@ -57,12 +57,45 @@ public class _161 {
                     if (needReplace == false) {
                         needReplace = true;
                     } else {
+
                         return false;
                     }
                 }
             }
 
             return true;
+        }
+    }
+
+    public static class Solution2 {
+        public boolean isOneEditDistance(String s, String t) {
+            if (s.length() == 0 && t.length() == 0) {
+                return false;
+            }
+
+            final int N = s.length();
+            final int M = t.length();
+            int[][] d = new int[N + 1][M + 1];
+
+            for (int i = 0; i <= N; ++i) {
+                d[i][0] = i;
+            }
+
+            for (int i = 0; i <= M; ++i) {
+                d[0][i] = i;
+            }
+
+            for (int i = 1; i <= N; ++i) {
+                for (int j = 1; j <= M; ++j) {
+                    int left = 1 + d[i - 1][j];
+                    int down = 1 + d[i][j - 1];
+                    int leftDown = d[i - 1][j - 1] + (s.charAt(i - 1) == t.charAt(j - 1) ? 0 : 1);
+
+                    d[i][j] = Math.min(left, Math.min(down, leftDown));
+                }
+            }
+
+            return d[N][M] == 1;
         }
     }
 }

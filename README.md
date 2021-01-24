@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 199 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 33 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 235
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 199 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 34 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 236
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
 
@@ -199,6 +199,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [1309](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | Decrypt String from Alphabet to Integer Mapping | [1309](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1309.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1313](https://leetcode.com/problems/decompress-run-length-encoded-list/) | Decompress Run-Length Encoded List | [1313](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1313.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1323](https://leetcode.com/problems/maximum-69-number/) | Maximum 69 Number | [1323](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1323.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
+[1329](https://leetcode.com/problems/sort-the-matrix-diagonally/) | Sort the Matrix Diagonally | [1329](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1329.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Array
 [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | The K Weakest Rows in a Matrix | [1337](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1337.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | [1342](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1342.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | BitManipulation
 [1350](https://leetcode.com/problems/students-with-invalid-departments/) | Students With Invalid Departments | [1350](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1350.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL

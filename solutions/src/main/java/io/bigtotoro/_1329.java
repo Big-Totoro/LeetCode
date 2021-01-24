@@ -23,10 +23,10 @@ public class _1329 {
                 /**
                  * Collect the diagonal values into the array
                  */
-                int i = col;
-                int j = 0;
-                while(i < M && j < N) {
-                    array.add(mat[j++][i++]);
+                int i = 0;
+                int j = col;
+                while(i < N && j < M) {
+                    array.add(mat[i++][j++]);
                 }
 
                 /**
@@ -37,10 +37,10 @@ public class _1329 {
                 /**
                  * Set the sorted array values back to the matrix diagonal
                  */
-                i = col;
-                j = 0;
-                while(i < M && j < N) {
-                    mat[j][i] = array.get(j);
+                i = 0;
+                j = col;
+                while(i < N && j < M) {
+                    mat[i][j] = array.get(i);
                     i++;
                     j++;
                 }

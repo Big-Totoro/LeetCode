@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 199 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 34 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3 | 236
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 199 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 34 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 4 | 237
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
 
@@ -20,6 +20,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List | [19](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_19.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, LinkedList
 [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | [21](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_21.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | LinkedList
 [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [22](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_22.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | String, Backtracking
+[23](https://leetcode.com/problems/merge-k-sorted-lists/) | Merge k Sorted Lists | [23](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_23.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | LinkedList
 [27](https://leetcode.com/problems/remove-element/) | Remove Element | [27](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_27.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [39](https://leetcode.com/problems/combination-sum/) | Combination Sum | [39](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_39.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Backtracking
 [40](https://leetcode.com/problems/combination-sum-ii/) | Combination Sum II | [40](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_40.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Backtracking

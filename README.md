@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 200 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 35 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 4 | 239
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 200 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 36 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 4 | 240
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
 
@@ -243,6 +243,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [1572](https://leetcode.com/problems/matrix-diagonal-sum/) | Matrix Diagonal Sum | [1572](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1572.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Sort
 [1631](https://leetcode.com/problems/path-with-minimum-effort/) | Path With Minimum Effort | [1631](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1631.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Graph
 [1657](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Determine if Two Strings Are Close | [1657](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1657.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Greedy
+[1663](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | Smallest String With A Given Numeric Value | [1663](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1663.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Greedy
 [1673](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | Find the Most Competitive Subsequence | [1673](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1673.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Greedy
 [1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Concatenation of Consecutive Binary Numbers | [1680](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1680.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Math
 [1710](https://leetcode.com/problems/maximum-units-on-a-truck/) | Maximum Units on a Truck | [1710](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1710.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Greedy

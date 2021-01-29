@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 198 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 38 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 4 | 240
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 198 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 39 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 4 | 241
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
 
@@ -123,6 +123,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [709](https://leetcode.com/problems/to-lower-case/) | To Lower Case | [709](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_709.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String 
 [728](https://leetcode.com/problems/self-dividing-numbers/) | Self Dividing Numbers | [728](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_728.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math 
 [743](https://leetcode.com/problems/network-delay-time/) | Network Delay Time | [743](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_743.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Graph 
+[750](https://leetcode.com/problems/number-of-corner-rectangles/) | Number Of Corner Rectangles | [750](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_750.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | DP 
 [760](https://leetcode.com/problems/find-anagram-mappings/) | Find Anagram Mappings | [760](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_760.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Prime Number of Set Bits in Binary Representation | [762](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_762.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | BitManipulation
 [771](https://leetcode.com/problems/jewels-and-stones/) | Jewels and Stones | [771](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_771.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String  

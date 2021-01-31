@@ -43,6 +43,22 @@ public class _987_Test {
     @Test
     public void test13() {
         _987.TreeNode root = new _987.TreeNode(
+                1,
+                new _987.TreeNode(2,
+                        new _987.TreeNode(4),
+                        new _987.TreeNode(6)),
+                new _987.TreeNode(3,
+                        new _987.TreeNode(5),
+                        new _987.TreeNode(7))
+        );
+        assertThat(SOLUTION_1.verticalTraversal(root)).isEqualTo(List.of(
+                List.of(4), List.of(2), List.of(1, 5, 6), List.of(3), List.of(7))
+        );
+    }
+
+    @Test
+    public void test14() {
+        _987.TreeNode root = new _987.TreeNode(
                 3,
                 new _987.TreeNode(1,
                         new _987.TreeNode(0),

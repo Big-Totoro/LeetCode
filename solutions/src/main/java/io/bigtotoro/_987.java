@@ -56,7 +56,7 @@ public class _987 {
                 return this.treeNode.val - o.treeNode.val;
             }
 
-            return  o.level - this.level;
+            return  this.level - o.level;
         }
     }
 
@@ -71,34 +71,33 @@ public class _987 {
             hdList.add(HD.valueOf(0, 0,  root));
             map.put(0, hdList);
 
-            int level = 0;
-            Stack<HD> stack = new Stack<>();
-            stack.push(HD.valueOf(0, 0, root));
-            while (!stack.isEmpty()) {
-                HD top = stack.pop();
+            Queue<HD> queue = new LinkedList<>();
+            queue.offer(HD.valueOf(0, 0, root));
+            while (!queue.isEmpty()) {
+                HD top = queue.poll();
 
                 if (top.treeNode.left != null) {
                     int hd = top.hd - 1;
-                    stack.push(HD.valueOf(hd, level, top.treeNode.left));
+                    queue.offer(HD.valueOf(hd, top.level + 1, top.treeNode.left));
                     hdList = map.getOrDefault(hd, new ArrayList<>());
-                    hdList.add(HD.valueOf(hd, level, top.treeNode.left));
+                    hdList.add(HD.valueOf(hd, top.level + 1, top.treeNode.left));
                     map.put(hd, hdList);
                 }
                 if (top.treeNode.right != null) {
                     int hd = top.hd + 1;
-                    stack.push(HD.valueOf(hd, level, top.treeNode.right));
+                    queue.offer(HD.valueOf(hd, top.level + 1, top.treeNode.right));
                     hdList = map.getOrDefault(hd, new ArrayList<>());
-                    hdList.add(HD.valueOf(hd, level, top.treeNode.right));
+                    hdList.add(HD.valueOf(hd, top.level + 1, top.treeNode.right));
                     map.put(hd, hdList);
                 }
-                ++level;
             }
 
             List<List<Integer>> result = new ArrayList<>();
             for (Map.Entry<Integer, List<HD>> e : map.entrySet()) {
                 List<Integer> node = new ArrayList<>();
-                e.getValue().sort(Comparator.naturalOrder());
-                for (HD hd : e.getValue()) {
+                List<HD> list = e.getValue();
+                list.sort(Comparator.naturalOrder());
+                for (HD hd : list) {
                     node.add(hd.treeNode.val);
                 }
                 result.add(node);

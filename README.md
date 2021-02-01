@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 198 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 39 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 242
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 199 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 39 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 243
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
 

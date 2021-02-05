@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 40 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 246
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 41 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 246
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
 
@@ -29,6 +29,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [48](https://leetcode.com/problems/rotate-image/) | Rotate Image | [48](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_48.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, Array
 [51](https://leetcode.com/problems/n-queens/) | N-Queens | [51](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_51.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | Backtracking
 [60](https://leetcode.com/problems/permutation-sequence/) | Permutation Sequence | [60](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_60.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | Backtracking
+[71](https://leetcode.com/problems/simplify-path/) | Simplify Path | [71](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_71.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Stack
 [73](https://leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zeroes | [73](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_73.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, Array
 [86](https://leetcode.com/problems/partition-list/) | Partition List | [86](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_86.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, LinkedList
 [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Remove Duplicates from Sorted List | [83](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_83.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | CTCI, LinkedList

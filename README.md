@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 42 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 248
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 43 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 249
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
 
@@ -125,6 +125,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [657](https://leetcode.com/problems/robot-return-to-origin/) | Robot Return to Origin | [657](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_657.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String 
 [682](https://leetcode.com/problems/baseball-game/) | Baseball Game | [682](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_682.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Stack 
 [693](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Binary Number with Alternating Bits | [693](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_693.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | BitManipulation 
+[694](https://leetcode.com/problems/number-of-distinct-islands/) | Number of Distinct Islands | [694](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_694.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | DFS, BFS
 [705](https://leetcode.com/problems/design-hashset/) | Design HashSet | [705](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_705.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashSet, Design 
 [706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | [706](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_706.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashMap, Design 
 [709](https://leetcode.com/problems/to-lower-case/) | To Lower Case | [709](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_709.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String 

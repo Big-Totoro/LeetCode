@@ -14,14 +14,19 @@ public class _694 {
     public static class Solution1 {
 
         private final Map<Character, Integer[]> directions = new LinkedHashMap<>() {{
-            put('L', new Integer[] {0, -1});
-            put('R', new Integer[] {0, 1});
-            put('D', new Integer[] {1, 0});
-            put('U', new Integer[] {-1, 0});
+            put('L', new Integer[] {0, -1}); // Move to the left. COL - 1
+            put('R', new Integer[] {0, 1}); // Move to the right. COL + 1
+            put('D', new Integer[] {1, 0}); // Move down. ROW + 1
+            put('U', new Integer[] {-1, 0}); // Move up. ROW - 1
         }};
 
+        // Mark the end of a island configuration
         private final String END_OF_ISLAND = "E";
+
+        // An island
         private final int LAND = 1;
+
+        // A water
         private final int WATER = 0;
 
         public int numDistinctIslands(int[][] grid) {
@@ -51,6 +56,9 @@ public class _694 {
 
             grid[row][col] = WATER;
 
+            /**
+             * Loop through all directions and check the possibility to make step to that direction
+             */
             for (var direction : directions.entrySet()) {
                 int r = row + direction.getValue()[0];
                 int c = col + direction.getValue()[1];
@@ -60,6 +68,9 @@ public class _694 {
                     dfs(grid, r, c, builder);
                 }
             }
+
+            // As soon as we checked all directions then mark
+            // the island end to differentiate one island from another
             builder.append(END_OF_ISLAND);
         }
 

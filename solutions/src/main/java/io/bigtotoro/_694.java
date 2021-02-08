@@ -20,24 +20,28 @@ public class _694 {
             put('U', new Integer[] {-1, 0});
         }};
 
+        private final String END_OF_ISLAND = "E";
+        private final int LAND = 1;
+        private final int WATER = 0;
+
         public int numDistinctIslands(int[][] grid) {
             if (grid.length == 0 || grid[0].length == 0) {
                 return 0;
             }
 
-            Set<String> set = new HashSet<>();
+            Set<String> distinctIslands = new HashSet<>();
 
             for (int r = 0; r < grid.length; r++) {
                 for (int c = 0; c < grid[0].length; c++) {
                     if (grid[r][c] == 1) {
                         StringBuilder builder = new StringBuilder();
                         dfs(grid, r, c, builder);
-                        set.add(builder.toString());
+                        distinctIslands.add(builder.toString());
                     }
                 };
             }
 
-            return set.size();
+            return distinctIslands.size();
         }
 
         private void dfs(int[][] grid, int row, int col, StringBuilder builder) {
@@ -45,18 +49,18 @@ public class _694 {
                 return;
             }
 
-            grid[row][col] = 0;
+            grid[row][col] = WATER;
 
             for (var direction : directions.entrySet()) {
                 int r = row + direction.getValue()[0];
                 int c = col + direction.getValue()[1];
-                if (isValid(grid, r, c) && grid[r][c] == 1) {
+                if (isValid(grid, r, c) && grid[r][c] == LAND) {
                     builder.append(direction.getKey());
 
                     dfs(grid, r, c, builder);
                 }
             }
-            builder.append("E");
+            builder.append(END_OF_ISLAND);
         }
 
         private boolean isValid(int[][] grid, int row, int col) {

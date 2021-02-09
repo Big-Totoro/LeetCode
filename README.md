@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 43 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 249
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 44 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 250
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book
 
@@ -73,6 +73,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [266](https://leetcode.com/problems/palindrome-permutation/) | Palindrome Permutation | [266](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_266.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | CTCI, Array
 [268](https://leetcode.com/problems/missing-number/) | Missing Number | [268](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_268.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math, BitManipulation
 [283](https://leetcode.com/problems/move-zeroes/) | Move Zeros | [283](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_283.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[284](https://leetcode.com/problems/peeking-iterator/) | Peeking Iterator | [284](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_284.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Design
 [292](https://leetcode.com/problems/nim-game/) | Nim Game | [292](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_292.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math, Brainteaser
 [293](https://leetcode.com/problems/flip-game/) | Flip Game | [293](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_293.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
 [310](https://leetcode.com/problems/minimum-height-trees/) | Minimum Height Trees | [310](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_310.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | BFS, Graph

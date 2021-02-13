@@ -72,7 +72,7 @@ public class _1091 {
                     int row = currentNode.row + direction[0];
                     int col = currentNode.col + direction[1];
 
-                    if (isValid(grid, row, col) && grid[row][col] == 0) {
+                    if (isValid(grid, row, col) && !visited[row][col] && grid[row][col] == 0) {
                         int newDistance = currentNodeDistance + 1;
                         if (newDistance < distances[row][col]) {
                             distances[row][col] = newDistance;

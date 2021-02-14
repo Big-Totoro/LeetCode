@@ -6,7 +6,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class _1091_Test {
 
-    private static final _1091.Solution1 SOLUTION_1 = new _1091.Solution1();
+    private static final _1091.Solution2 SOLUTION_1 = new _1091.Solution2();
 
     @Test
     public void test11() {

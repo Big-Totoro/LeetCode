@@ -93,4 +93,63 @@ public class _1091 {
             return row >= 0 && col >= 0 && row < grid.length && col < grid[0].length;
         }
     }
+
+    public static class Solution2 {
+        private final int[][] DIRECTIONS = {
+                {0, -1}, // Left
+                {-1, -1}, // Up, Left
+                {-1, 0}, // Up
+                {-1, 1}, // Up, Right
+                {0, 1}, // Right
+                {1, 1}, // Down, Right
+                {1, 0}, // Down
+                {1, -1} // Down, Left
+        };
+
+        public int shortestPathBinaryMatrix(int[][] grid) {
+            if (grid[0][0] == 1 || grid[grid.length - 1][grid[0].length - 1] == 1) {
+                return -1;
+            }
+
+            int[][] distances = new int[grid.length][grid[0].length];
+
+            for (int r = 0; r < distances.length; ++r) {
+                for (int c = 0; c < distances[0].length; ++c) {
+                    distances[r][c] = Integer.MAX_VALUE;
+                }
+            }
+
+            distances[0][0] = 1;
+            dfs(grid, distances, 0, 0, 1);
+
+            if (distances[grid.length - 1][grid[0].length - 1] == Integer.MAX_VALUE) {
+                return -1;
+            }
+
+            return distances[grid.length - 1][grid[0].length - 1];
+        }
+
+        private void dfs(int[][] grid, int[][] distances, int row, int col, int distance) {
+            if (row == grid.length && col == grid[0].length) {
+                distances[row][col] = distance + 1;
+                return;
+            }
+
+            for (int[] direction : DIRECTIONS) {
+                int r = row + direction[0];
+                int c = col + direction[1];
+
+                if (isValid(grid, r, c) && grid[r][c] == 0) {
+                    if (distances[r][c] > distance + 1) {
+                        distances[r][c] = distance + 1;
+                        dfs(grid, distances, r, c, distance + 1);
+                    }
+                }
+            }
+        }
+
+        private boolean isValid(int[][] grid, int row, int col) {
+            return row >= 0 && col >= 0 && row < grid.length && col < grid[0].length;
+        }
+    }
 }

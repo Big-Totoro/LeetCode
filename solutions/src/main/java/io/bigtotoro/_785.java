@@ -51,14 +51,18 @@ public class _785 {
             queue.offer(0);
             while (!queue.isEmpty()) {
                 Integer node = queue.poll();
+
+                // If the node is not marked with the color then mark it
                 if (colorMap.get(node) == Color.WHITE) {
                     colorMap.put(node, Color.RED);
                 }
 
+                // Loop through all adjacency nodes, assign the color and check if the assigned color
+                // is the same for the both adjacency nodes
                 for (Integer adjacency : adjacencyMap.getOrDefault(node, new ArrayList<>())) {
                     if (colorMap.get(adjacency) == Color.WHITE) {
                         // Invert the color of the adjacency node regarding to the node from the queue
-                        Color color = colorMap.get(node) == Color.RED ? Color.BLACK : Color.RED;
+                        Color color = (colorMap.get(node) == Color.RED) ? Color.BLACK : Color.RED;
                         colorMap.put(adjacency, color);
                         queue.offer(adjacency);
                     } else if (colorMap.get(node) == colorMap.get(adjacency)) {

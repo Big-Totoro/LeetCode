@@ -44,29 +44,32 @@ public class _785 {
                 colorMap.put(node, Color.WHITE);
             }
 
-            /**
-             * Go through all not visited (WHITE) nodes and deep into their adjacency
-             */
-            Queue<Integer> queue = new LinkedList<>();
-            queue.offer(0);
-            while (!queue.isEmpty()) {
-                Integer node = queue.poll();
+            for (int node = 0; node < graph.length; ++node) {
 
-                // If the node is not marked with the color then mark it
-                if (colorMap.get(node) == Color.WHITE) {
-                    colorMap.put(node, Color.RED);
-                }
+                /**
+                 * Go through all not visited (WHITE) nodes and deep into their adjacency
+                 */
+                Queue<Integer> queue = new LinkedList<>();
+                queue.offer(node);
+                while (!queue.isEmpty()) {
+                    Integer currentNode = queue.poll();
 
-                // Loop through all adjacency nodes, assign the color and check if the assigned color
-                // is the same for the both adjacency nodes
-                for (Integer adjacency : adjacencyMap.getOrDefault(node, new ArrayList<>())) {
-                    if (colorMap.get(adjacency) == Color.WHITE) {
-                        // Invert the color of the adjacency node regarding to the node from the queue
-                        Color color = (colorMap.get(node) == Color.RED) ? Color.BLACK : Color.RED;
-                        colorMap.put(adjacency, color);
-                        queue.offer(adjacency);
-                    } else if (colorMap.get(node) == colorMap.get(adjacency)) {
-                        return false;
+                    // If the currentNode is not marked with the color then mark it
+                    if (colorMap.get(currentNode) == Color.WHITE) {
+                        colorMap.put(currentNode, Color.RED);
+                    }
+
+                    // Loop through all adjacency nodes, assign the color and check if the assigned color
+                    // is the same for the both adjacency nodes
+                    for (Integer adjacency : adjacencyMap.getOrDefault(currentNode, new ArrayList<>())) {
+                        if (colorMap.get(adjacency) == Color.WHITE) {
+                            // Invert the color of the adjacency currentNode regarding to the currentNode from the queue
+                            Color color = (colorMap.get(currentNode) == Color.RED) ? Color.BLACK : Color.RED;
+                            colorMap.put(adjacency, color);
+                            queue.offer(adjacency);
+                        } else if (colorMap.get(currentNode) == colorMap.get(adjacency)) {
+                            return false;
+                        }
                     }
                 }
             }

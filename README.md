@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 48 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 254
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 49 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 255
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -110,6 +110,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [573](https://leetcode.com/problems/squirrel-simulation/) | Squirrel Simulation | [573](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_573.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Math
 [575](https://leetcode.com/problems/distribute-candies/) | Distribute Candies | [575](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_575.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [577](https://leetcode.com/problems/employee-bonus/) | Employee Bonus | [577](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_577.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
+[582](https://leetcode.com/problems/kill-process/) | Kill Process | [582](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_582.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Tree
 [584](https://leetcode.com/problems/find-customer-referee/) | Find Customer Referee | [584](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_584.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [586](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Customer Placing the Largest Number of Orders | [586](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_586.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | N-ary Tree Preorder Traversal | [589](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_589.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree

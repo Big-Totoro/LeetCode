@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 49 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 255
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 50 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 256
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -139,6 +139,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [760](https://leetcode.com/problems/find-anagram-mappings/) | Find Anagram Mappings | [760](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_760.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Prime Number of Set Bits in Binary Representation | [762](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_762.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | BitManipulation
 [771](https://leetcode.com/problems/jewels-and-stones/) | Jewels and Stones | [771](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_771.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String  
+[784](https://leetcode.com/problems/letter-case-permutation/) | Letter Case Permutation | [784](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_784.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Backtracking
 [785](https://leetcode.com/problems/is-graph-bipartite/) | Is Graph Bipartite | [785](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_785.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Graph
 [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops | [787](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_787.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Graph
 [796](https://leetcode.com/problems/rotate-string/) | Rotate String | [796](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_796.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | CTCI, Array

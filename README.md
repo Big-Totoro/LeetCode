@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 51 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 257
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 52 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 258
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -89,6 +89,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [389](https://leetcode.com/problems/find-the-difference/) | Find the Difference | [389](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_389.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | [409](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_409.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Greedy
 [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | [412](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_412.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[413](https://leetcode.com/problems/arithmetic-slices/) | Arithmetic Slices | [413](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_413.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Math, DP
 [443](https://leetcode.com/problems/string-compression/) | String Compression | [443](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_443.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | CTCI, String
 [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | [448](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_448.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [461](https://leetcode.com/problems/hamming-distance/) | Hamming Distance | [461](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_461.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | BitManipulation

@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 52 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 258
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 53 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 259
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -204,6 +204,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [1211](https://leetcode.com/problems/queries-quality-and-percentage/) | Queries Quality and Percentage | [1211](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1211.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | Split a String in Balanced Strings | [1221](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1221.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
 [1241](https://leetcode.com/problems/number-of-comments-per-post/) | Number of Comments per Post | [1241](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1241.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
+[1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Minimum Remove to Make Valid Parentheses | [1249](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1249.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Stack
 [1251](https://leetcode.com/problems/average-selling-price/) | Average Selling Price | [1251](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_1251.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | Cells with Odd Values in a Matrix | [1252](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1252.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [1265](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) | Print Immutable Linked List in Reverse | [1265](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1265.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | LinkedList

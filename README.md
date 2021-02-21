@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 54 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 259
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 55 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 260
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -168,6 +168,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [965](https://leetcode.com/problems/univalued-binary-tree/) | Univalued Binary Tree | [965](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_965.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree  
 [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | [977](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_977.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array  
 [987](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Vertical Order Traversal of a Binary Tree | [987](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_987.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | Tree  
+[991](https://leetcode.com/problems/broken-calculator/) | Broken Calculator | [991](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_991.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Greedy
 [997](https://leetcode.com/problems/find-the-town-judge/) | Find the Town Judge | [999](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_999.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array  
 [999](https://leetcode.com/problems/available-captures-for-rook/) | Available Captures for Rook | [999](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_999.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array  
 [1002](https://leetcode.com/problems/find-common-characters/) | Find Common Characters | [1002](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1002.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable  

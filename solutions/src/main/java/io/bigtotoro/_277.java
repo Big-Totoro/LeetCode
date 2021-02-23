@@ -9,6 +9,15 @@ import java.util.Map;
 
 public class _277 {
 
+    /**
+     * Nonfunctional stub
+     */
+    public static class Relation {
+        public boolean knows(int i, int j) {
+            return true;
+        }
+    }
+
     public static class Solution extends Relation {
         public int findCelebrity(int n) {
             Map<Integer, Integer> inConnections = new HashMap<>();

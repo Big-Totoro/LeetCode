@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 62 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5 | 267
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 200 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 62 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 268
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -162,6 +162,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [872](https://leetcode.com/problems/leaf-similar-trees/) | Leaf-Similar Trees | [872](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_872.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree 
 [876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | [876](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_876.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | LinkedList  
 [884](https://leetcode.com/problems/uncommon-words-from-two-sntences/) | Uncommon Words from Two Sentences | [884](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_884.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
+[895](https://leetcode.com/problems/maximum-frequency-stack/) | Maximum Frequency Stack | [895](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_895.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | Stack
 [897](https://leetcode.com/problems/increasing-order-search-tree/) | Increasing Order Search Tree | [897](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_897.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree, DFS  
 [905](https://leetcode.com/problems/sort-array-by-parity/) | Sort Array By Parity | [905](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_905.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array  
 [922](https://leetcode.com/problems/sort-array-by-parity-ii/) | Sort Array By Parity II | [922](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_922.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array  

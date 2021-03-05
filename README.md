@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 201 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 62 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 269
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 202 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 62 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 270
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -131,6 +131,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [617](https://leetcode.com/problems/merge-two-binary-trees/) | Merge Two Binary Trees | [617](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_617.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree 
 [620](https://leetcode.com/problems/not-boring-movies/) | Not Boring Movies | [620](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_620.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [627](https://leetcode.com/problems/swap-salary/) | Swap Salary | [627](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_627.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
+[637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [637](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_637.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree
 [645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | [645](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_645.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [654](https://leetcode.com/problems/maximum-binary-tree/) | Maximum Binary Tree | [654](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_654.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Tree 
 [657](https://leetcode.com/problems/robot-return-to-origin/) | Robot Return to Origin | [657](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_657.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String 

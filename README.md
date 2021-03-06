@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 202 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 62 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 270
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 202 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 63 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 271
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -156,6 +156,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [806](https://leetcode.com/problems/number-of-lines-to-write-string/) | Number of Lines To Write String | [806](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_806.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String  
 [811](https://leetcode.com/problems/subdomain-visit-count/) | Subdomain Visit Count | [811](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_811.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable  
 [821](https://leetcode.com/problems/shortest-distance-to-a-character/) |  Shortest Distance to a Character | [821](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_821.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String  
+[820](https://leetcode.com/problems/short-encoding-of-words/) | Short Encoding of Words | [820](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_820.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Trie
 [824](https://leetcode.com/problems/goat-latin/) | Goat Latin | [824](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_824.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String  
 [832](https://leetcode.com/problems/flipping-an-image/) | Flipping an Image | [832](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_832.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array  
 [852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | [852](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_852.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array  

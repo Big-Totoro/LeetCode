@@ -25,6 +25,16 @@ public class _246_Test {
 
     @Test
     public void test14() {
-        assertThat(SOLUTION_1.isStrobogrammatic("962")).isTrue();
+        assertThat(SOLUTION_1.isStrobogrammatic("962")).isFalse();
+    }
+
+    @Test
+    public void test15() {
+        assertThat(SOLUTION_1.isStrobogrammatic("2")).isFalse();
+    }
+
+    @Test
+    public void test16() {
+        assertThat(SOLUTION_1.isStrobogrammatic("609")).isTrue();
     }
 }

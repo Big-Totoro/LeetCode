@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 202 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 63 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 271
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 204 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 63 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 273
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -131,6 +131,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [613](https://leetcode.com/problems/shortest-distance-in-a-line/) | Shortest Distance in a Line | [613](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_613.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [617](https://leetcode.com/problems/merge-two-binary-trees/) | Merge Two Binary Trees | [617](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_617.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree 
 [620](https://leetcode.com/problems/not-boring-movies/) | Not Boring Movies | [620](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_620.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
+[623](https://leetcode.com/problems/add-one-row-to-tree/) | Add One Row to Tree | [623](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_623.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Tree
 [627](https://leetcode.com/problems/swap-salary/) | Swap Salary | [627](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/database/_627.sql) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | SQL
 [637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [637](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_637.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree
 [645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | [645](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_645.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable

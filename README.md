@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 204 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 65 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 275
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 204 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 66 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 276
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -84,6 +84,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [292](https://leetcode.com/problems/nim-game/) | Nim Game | [292](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_292.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math, Brainteaser
 [293](https://leetcode.com/problems/flip-game/) | Flip Game | [293](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_293.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
 [310](https://leetcode.com/problems/minimum-height-trees/) | Minimum Height Trees | [310](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_310.java) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | BFS, Graph
+[322](https://leetcode.com/problems/coin-change/) | Coin Change | [322](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_322.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | DP
 [339](https://leetcode.com/problems/nested-list-weight-sum/) | Nested List Weight Sum | [339](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_339.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | DFS
 [349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [349](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_349.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Intersection of Two Arrays II | [350](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_350.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable

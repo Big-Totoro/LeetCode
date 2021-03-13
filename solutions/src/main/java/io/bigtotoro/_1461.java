@@ -16,8 +16,7 @@ public class _1461 {
 
             for (int i = 0; i <= s.length() - k; ++i) {
                 String candidate = s.substring(i, i + k);
-                if (!set.contains(candidate)) {
-                    set.add(candidate);
+                if (set.add(candidate)) {
                     if (set.size() == expectedCount) {
                         return true;
                     }

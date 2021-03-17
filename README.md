@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 204 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 70 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 280
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 204 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 71 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 281
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -147,6 +147,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [705](https://leetcode.com/problems/design-hashset/) | Design HashSet | [705](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_705.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashSet, Design 
 [706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | [706](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_706.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashMap, Design 
 [709](https://leetcode.com/problems/to-lower-case/) | To Lower Case | [709](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_709.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String 
+[714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Best Time to Buy and Sell Stock with Transaction Fee | [694](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_714.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | DP
 [728](https://leetcode.com/problems/self-dividing-numbers/) | Self Dividing Numbers | [728](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_728.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math 
 [743](https://leetcode.com/problems/network-delay-time/) | Network Delay Time | [743](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_743.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Graph 
 [750](https://leetcode.com/problems/number-of-corner-rectangles/) | Number Of Corner Rectangles | [750](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_750.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | DP 

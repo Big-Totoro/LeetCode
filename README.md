@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 204 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 72 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 282
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 204 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 73 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 283
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -91,6 +91,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [344](https://leetcode.com/problems/reverse-string/) | Reverse String | [344](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_344.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String, Two pointers
 [346](https://leetcode.com/problems/moving-average-from-data-stream/) | Moving Average from Data Stream | [346](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_346.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Queue
 [359](https://leetcode.com/problems/logger-rate-limiter/) | Logger Rate Limiter | [359](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_359.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
+[376](https://leetcode.com/problems/wiggle-subsequence/) | Wiggle Subsequence | [376](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_376.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Greedy
 [387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | [387](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_387.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [389](https://leetcode.com/problems/find-the-difference/) | Find the Difference | [389](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_389.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | [409](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_409.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Greedy

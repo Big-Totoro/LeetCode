@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 204 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 75 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 285
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 204 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 76 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6 | 286
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -171,6 +171,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | [852](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_852.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array  
 [856](https://leetcode.com/problems/score-of-parentheses/) | Score of Parentheses | [856](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_856.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Stack
 [867](https://leetcode.com/problems/transpose-matrix/) | Transpose Matrix | [867](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_867.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array  
+[869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | [869](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_869.java) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Math
 [872](https://leetcode.com/problems/leaf-similar-trees/) | Leaf-Similar Trees | [872](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_872.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree 
 [876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | [876](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_876.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | LinkedList  
 [884](https://leetcode.com/problems/uncommon-words-from-two-sntences/) | Uncommon Words from Two Sentences | [884](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_884.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable

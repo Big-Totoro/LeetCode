@@ -298,6 +298,6 @@ The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://ww
 | [1725](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)    | Number Of Rectangles That Can Form The Largest Square    | [1725](https://github.com/Big-Totoro/LeetCode/blob/master/solutions/src/main/java/io/bigtotoro/_1725.java) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Greedy                           |
 
 #### Legend
-Easy | Medium | Hard
--------|---------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
+| Easy                                                            | Medium                                                          | Hard                                                            |
+|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |

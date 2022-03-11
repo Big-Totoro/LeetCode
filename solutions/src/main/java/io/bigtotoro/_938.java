@@ -1,5 +1,9 @@
 package io.bigtotoro;
 
+import com.sun.source.tree.Tree;
+
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Stack;
 
 /**
@@ -27,6 +31,8 @@ public class _938 {
     }
 
     public static class Solution1 {
+        private int sum = 0;
+
         public int rangeSumBST(TreeNode root, int L, int R) {
             return bfs(root, L, R);
         }
@@ -36,22 +42,18 @@ public class _938 {
                 return 0;
             }
 
-            int sum = 0;
-            Stack<TreeNode> stack = new Stack<>();
-            stack.push(root);
-
-            while (!stack.empty()) {
-                TreeNode top = stack.pop();
-                if (top != null) {
-                    if ((top.val >= L) && (top.val <= R)) {
-                        sum += top.val;
-                    }
-                    if (top.val >= L) {
-                        stack.push(top.left);
-                    }
-                    if (top.val <= R) {
-                        stack.push(top.right);
-                    }
+            Queue<TreeNode> queue = new LinkedList<>();
+            queue.add(root);
+            while (!queue.isEmpty()) {
+                TreeNode top = queue.poll();
+                if (top.val >= L && top.val <= R) {
+                    sum += top.val;
+                }
+                if (top.left != null) {
+                    queue.add(top.left);
+                }
+                if (top.right != null) {
+                    queue.add(top.right);
                 }
             }
 
@@ -69,17 +71,16 @@ public class _938 {
         }
 
         private void dfs(TreeNode root, int L, int R) {
-            if (root != null) {
-                if ((root.val >= L) && (root.val <= R)) {
-                    sum += root.val;
-                    dfs(root.right, L, R);
-                    dfs(root.left, L, R);
-                } else if (root.val < L) {
-                    dfs(root.right, L, R);
-                } else {
-                    dfs(root.left, L, R);
-                }
+            if (root == null) {
+                return;
             }
+
+            if (root.val >= L && root.val <= R) {
+                sum += root.val;
+            }
+
+            dfs(root.left, L, R);
+            dfs(root.right, L, R);
         }
     }
 }

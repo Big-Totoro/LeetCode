@@ -11,6 +11,7 @@ public class _234_Test {
         _234.Solution1 solution1 = new _234.Solution1();
         assertThat(solution1.isPalindrome(new _234.ListNode(1, new _234.ListNode(2)))).isFalse();
     }
+
     @Test
     public void test12() {
         _234.Solution1 solution1 = new _234.Solution1();

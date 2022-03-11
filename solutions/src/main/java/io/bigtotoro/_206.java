@@ -19,8 +19,9 @@ public class _206 {
                 return null;
             }
 
-            ListNode current = head;
             ListNode prev = null;
+            ListNode current = head;
+
             while (current != null) {
                 ListNode temp = current.next;
                 current.next = prev;

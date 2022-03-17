@@ -15,18 +15,19 @@ public class _3 {
                 return 0;
             }
 
-            int maxWindowSize = Integer.MIN_VALUE;
+            int maxWindowSize = 0;
+            int[] set = new int[128];
+            for (int left = 0, right = 0; right < s.length(); ++right) {
+                char c = s.charAt(right);
+                set[c]++;
 
-            int l = 0;
-            int r = 0;
-            Set<Character> set = new HashSet<>();
-            while (l < s.length() && r < s.length()) {
-                if (set.add(s.charAt(r))) {
-                    r++;
-                    maxWindowSize = Math.max(maxWindowSize, r - l);
-                } else {
-                    set.remove(s.charAt(l++));
+                while (set[c] > 1) {
+                    char t = s.charAt(left);
+                    set[t]--;
+                    ++left;
                 }
+
+                maxWindowSize = Math.max(maxWindowSize, right - left + 1);
             }
 
             return maxWindowSize;

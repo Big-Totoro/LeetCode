@@ -17,16 +17,16 @@ public class _228 {
 
             List<String> result = new ArrayList<>();
             for (int i = 0, j = 0; j < nums.length; ++j) {
-                if ((j + 1 < nums.length) && (nums[j + 1] == nums[j] + 1)) {
-                    continue;
+                i = j;
+                while (j + 1 < nums.length && nums[j + 1] == nums[j] + 1) {
+                    ++j;
                 }
 
                 if (i == j) {
-                    result.add(String.valueOf(nums[j]));
+                    result.add(String.valueOf(nums[i]));
                 } else {
                     result.add(nums[i] + "->" + nums[j]);
                 }
-                i = j + 1;
             }
 
             return result;

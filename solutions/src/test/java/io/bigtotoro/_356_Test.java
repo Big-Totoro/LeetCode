@@ -18,10 +18,6 @@ public class _356_Test {
 
     @Test
     public void test12() {
-        assertThat(solution1.isReflected(new int[][]{{1, 1}, {-1, -1}})).isTrue();
+        assertThat(solution1.isReflected(new int[][]{{1, 1}, {-1, -1}})).isFalse();
     }
-}
-
-class I {
-
 }
